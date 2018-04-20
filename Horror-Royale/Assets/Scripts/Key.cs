@@ -5,10 +5,5 @@ using System;
 
 public class Key : ItemBaseClass {
 
-	//	public override string Name {
-	//		get{ 
-	//			return "Gun";
-	//		}
-	//	}
 
 }
