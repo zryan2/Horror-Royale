@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/HorrorRoyale.unity
+- path: Assets/Main/Scenes/HorrorRoyale.unity
   isLoaded: 1
   isActive: 1
