@@ -5,44 +5,37 @@ using UnityEngine;
 public class OpenDoor : MonoBehaviour {
 
 	private ClickItem clickItem;
-	public bool doubleClick = false;
 	private int counter = 0;
+	public string itemChose;
 
 
 
-	void Awake(){
+	void Start(){
 		clickItem = GetComponent<ClickItem> ();
 	}
 
-	 void Update(){
-		//Debug.Log ("NUMBER IS " + clickItem.num);
-
-		ItemBaseClass itemClicked = clickItem.item;
-
-//		doubleClick = clickItem.didDoubleClick;
-		if (counter != 1) {
-//			Debug.Log ("step 1");
-			if (doubleClick) {
-				//Debug.Log ("step 2");
-				//Debug.Log ("ITEM NAME" + itemClicked.Name);
-//				if (itemClicked.Name == "Key") {
-//				//	Debug.Log ("step 3");
-//				
+	void Update(){
+	 itemChose = clickItem.itemName;
+		bool didChoose = clickItem.chooseItem;
+		Debug.Log ("DID CHOOSE IS " + didChoose);
+		if (didChoose) {
+			Debug.Log ("DID CHOOSE IS " + didChoose);
+			Debug.Log ("ITEM CHOSE IS " + itemChose);
+			if (counter != 1) {
+				
+				if (itemChose == "Key") {
+					Debug.Log ("hi");
 					openingDoor ();
 					counter = 1;
-//				}
-
+				}
 			}
 		}
 	}
 
 	public void openingDoor(){
-		//if (doubleClick) {
-			Debug.Log (doubleClick);
 		transform.Rotate(0, -90, 0); 
 		//TODO add opening animation 
-		
-		//}
+
 	}
 
 
