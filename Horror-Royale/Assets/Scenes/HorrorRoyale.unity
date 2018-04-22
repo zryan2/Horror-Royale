@@ -11358,9 +11358,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 636007980b7f14d3393bde0de790b617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemChose: 
-  keyItem: cabinetKey
-  angle: 90
 --- !u!114 &548542318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27013,9 +27010,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 636007980b7f14d3393bde0de790b617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemChose: 
-  keyItem: cabinetKey
-  angle: -90
 --- !u!114 &1359236111
 MonoBehaviour:
   m_ObjectHideFlags: 0
