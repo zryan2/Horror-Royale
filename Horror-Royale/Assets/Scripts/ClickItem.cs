@@ -8,7 +8,6 @@ public class ClickItem : MonoBehaviour {
 	public Inventory inventory;
 	public ItemBaseClass item;
 	public Transform slot1;
-	public GameObject slot_1;
 	public Transform slot2;
 	public Transform slot3;
 	public Transform slot4;
@@ -38,71 +37,71 @@ public class ClickItem : MonoBehaviour {
 
 			image.sprite = null;
 			//chooseItem = false;
-			//name.text = null;
+			name.text = null;
+			//inventory.RemoveItem();
 
 		}
 
-//		else if (Input.GetKeyDown (KeyCode.Alpha2)) {
-//			chooseItem = true;
-//			Transform imageTransform = slot2.GetChild (0).GetChild (0);
-//			Transform nameTransform = slot2.GetChild (0).GetChild (2);
-//			Image image = imageTransform.GetComponent<Image> ();
-//			Text name = nameTransform.GetComponent<Text> ();
-//
-//			itemName = name.text;
-//			//Debug.Log ("THE ITEM NAME IS " + itemName);
-//			image.sprite = null;
-//			//name.text = null;
-//		}
-//		else if (Input.GetKeyDown (KeyCode.Alpha3)) {
-//			chooseItem = true;
-//			Transform imageTransform = slot3.GetChild (0).GetChild (0);
-//			Transform nameTransform = slot3.GetChild (0).GetChild (2);
-//			Image image = imageTransform.GetComponent<Image> ();
-//			Text name = nameTransform.GetComponent<Text> ();
-//
-//			itemName = name.text;
-//			//Debug.Log ("THE ITEM NAME IS " + itemName);
-//			image.sprite = null;
-//			//name.text = null;
-//		}
-//		else if (Input.GetKeyDown (KeyCode.Alpha4)) {
-//			chooseItem = true;
-//			Transform imageTransform = slot4.GetChild (0).GetChild (0);
-//			Transform nameTransform = slot4.GetChild (0).GetChild (2);
-//			Image image = imageTransform.GetComponent<Image> ();
-//			Text name = nameTransform.GetComponent<Text> ();
-//
-//			itemName = name.text;
-//			//Debug.Log ("THE ITEM NAME IS " + itemName);
-//			image.sprite = null;
-//			//name.text = null;
-//		}
-//		else if (Input.GetKeyDown (KeyCode.Alpha5)) {
-//			chooseItem = true;
-//			Transform imageTransform = slot5.GetChild (0).GetChild (0);
-//			Transform nameTransform = slot5.GetChild (0).GetChild (2);
-//			Image image = imageTransform.GetComponent<Image> ();
-//			Text name = nameTransform.GetComponent<Text> ();
-//
-//			itemName = name.text;
-//			//Debug.Log ("THE ITEM NAME IS " + itemName);
-//			image.sprite = null;
-//			//name.text = null;
-//		}
-//		else if (Input.GetKeyDown (KeyCode.Alpha6)) {
-//			chooseItem = true;
-//			Transform imageTransform = slot6.GetChild (0).GetChild (0);
-//			Transform nameTransform = slot6.GetChild (0).GetChild (2);
-//			Image image = imageTransform.GetComponent<Image> ();
-//			Text name = nameTransform.GetComponent<Text> ();
-//
-//			itemName = name.text;
-//			//Debug.Log ("THE ITEM NAME IS " + itemName);
-//			image.sprite = null;
-//			//name.text = null;
-//		}
-		//chooseItem = false;
+		else if (Input.GetKeyDown (KeyCode.Alpha2)) {
+			chooseItem = true;
+			Transform imageTransform = slot2.GetChild (0).GetChild (0);
+			Transform nameTransform = slot2.GetChild (0).GetChild (2);
+			Image image = imageTransform.GetComponent<Image> ();
+			Text name = nameTransform.GetComponent<Text> ();
+
+			itemName = name.text;
+			//Debug.Log ("THE ITEM NAME IS " + itemName);
+			image.sprite = null;
+			name.text = null;
+		}
+		else if (Input.GetKeyDown (KeyCode.Alpha3)) {
+			chooseItem = true;
+			Transform imageTransform = slot3.GetChild (0).GetChild (0);
+			Transform nameTransform = slot3.GetChild (0).GetChild (2);
+			Image image = imageTransform.GetComponent<Image> ();
+			Text name = nameTransform.GetComponent<Text> ();
+
+			itemName = name.text;
+			//Debug.Log ("THE ITEM NAME IS " + itemName);
+			image.sprite = null;
+			name.text = null;
+		}
+		else if (Input.GetKeyDown (KeyCode.Alpha4)) {
+			chooseItem = true;
+			Transform imageTransform = slot4.GetChild (0).GetChild (0);
+			Transform nameTransform = slot4.GetChild (0).GetChild (2);
+			Image image = imageTransform.GetComponent<Image> ();
+			Text name = nameTransform.GetComponent<Text> ();
+
+			itemName = name.text;
+			//Debug.Log ("THE ITEM NAME IS " + itemName);
+			image.sprite = null;
+			name.text = null;
+		}
+		else if (Input.GetKeyDown (KeyCode.Alpha5)) {
+			chooseItem = true;
+			Transform imageTransform = slot5.GetChild (0).GetChild (0);
+			Transform nameTransform = slot5.GetChild (0).GetChild (2);
+			Image image = imageTransform.GetComponent<Image> ();
+			Text name = nameTransform.GetComponent<Text> ();
+
+			itemName = name.text;
+			//Debug.Log ("THE ITEM NAME IS " + itemName);
+			image.sprite = null;
+			name.text = null;
+		}
+		else if (Input.GetKeyDown (KeyCode.Alpha6)) {
+			chooseItem = true;
+			Transform imageTransform = slot6.GetChild (0).GetChild (0);
+			Transform nameTransform = slot6.GetChild (0).GetChild (2);
+			Image image = imageTransform.GetComponent<Image> ();
+			Text name = nameTransform.GetComponent<Text> ();
+
+			itemName = name.text;
+			//Debug.Log ("THE ITEM NAME IS " + itemName);
+			image.sprite = null;
+			name.text = null;
+		}
 		//Debug.Log ("THE ITEM NAME IS " + itemName);
 	}
 
