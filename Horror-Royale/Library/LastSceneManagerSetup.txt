@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/HorrorRoyale.unity
+=======
+- path: Assets/Main/Scenes/HorrorRoyale.unity
+>>>>>>> RyanBranch2
   isLoaded: 1
   isActive: 1
