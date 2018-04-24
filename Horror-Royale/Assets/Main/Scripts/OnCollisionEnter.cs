@@ -8,7 +8,6 @@ public class OnCollisionEnter : MonoBehaviour {
 
 	bool scaryFace = false;
 	public GameObject jumpImage;
-	public AudioClip monsterClose;
 
 	private float jumpX, jumpY = 3f;
 	private bool jumpRotate = true;
@@ -26,12 +25,6 @@ public class OnCollisionEnter : MonoBehaviour {
 				jumpY += 0.5f;
 				StartCoroutine (rotateScare());
 			}
-
-
-				
-
-
-			
 		}
 	}
 
