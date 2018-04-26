@@ -131,6 +131,18 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity2017/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="KSCommon.Unity2017_3">
+ <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/KSCommon.Unity2017_3.dll</HintPath>
+ </Reference>
+ <Reference Include="KSCommon-Editor.Unity2017_3">
+ <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/Editor/KSCommon-Editor.Unity2017_3.dll</HintPath>
+ </Reference>
+ <Reference Include="KSSceneFusion.Unity2017_3">
+ <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/SceneFusion/KSSceneFusion.Unity2017_3.dll</HintPath>
+ </Reference>
+ <Reference Include="KSSceneFusion-Editor.Unity2017_3">
+ <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/SceneFusion/Editor/KSSceneFusion-Editor.Unity2017_3.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/Ryan/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
@@ -151,18 +163,6 @@
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>C:/Users/Ryan/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="KSCommon-Editor.Unity2017_3">
- <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/Editor/KSCommon-Editor.Unity2017_3.dll</HintPath>
- </Reference>
- <Reference Include="KSSceneFusion-Editor.Unity2017_3">
- <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/SceneFusion/Editor/KSSceneFusion-Editor.Unity2017_3.dll</HintPath>
- </Reference>
- <Reference Include="KSCommon.Unity2017_3">
- <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/KSCommon.Unity2017_3.dll</HintPath>
- </Reference>
- <Reference Include="KSSceneFusion.Unity2017_3">
- <HintPath>C:/Users/Ryan/Desktop/Projects/Unity/Horror-Royale/Horror-Royale/Assets/KinematicSoup/SceneFusion/KSSceneFusion.Unity2017_3.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
