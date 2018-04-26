@@ -21,16 +21,19 @@ public class HUD : MonoBehaviour {
 			counter++;
 			Transform imageTransform = slot.GetChild (0).GetChild (0); //sets imageTransform into image of slot
 			Transform textTransform = slot.GetChild(0).GetChild(1);
+			Transform nameTransform = slot.GetChild (0).GetChild (2);
 			Image image = imageTransform.GetComponent<Image> ();
 			Text textCount = textTransform.GetComponent<Text> ();
+			Text itemName = nameTransform.GetComponent<Text> ();
 			ItemDrag itemDrag = imageTransform.GetComponent<ItemDrag> ();
 
 			if (counter == e.Item.Slot.Id) {
 				image.enabled = true;
 				image.sprite = e.Item.Image;
+				itemName.text = e.Item.Name;
 
 				int itemCount = e.Item.Slot.Count;
-				Debug.Log ("ITEM COUNT " + itemCount);
+				//Debug.Log ("ITEM COUNT " + itemCount);
 				if (itemCount >= 1)
 					textCount.text = itemCount.ToString();
 				else

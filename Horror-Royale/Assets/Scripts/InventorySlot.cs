@@ -19,7 +19,7 @@ public class InventorySlot{
 	public void AddItem(ItemBaseClass item){
 		item.Slot = this;
 		mItemStack.Push (item);
-		//Debug.Log ("AddItem");
+//		Debug.Log ("AddItem" + item);
 	}
 
 	public ItemBaseClass FirstItem{
@@ -35,7 +35,6 @@ public class InventorySlot{
 			return false; 
 
 		ItemBaseClass first = mItemStack.Peek ();
-		Debug.Log ("FIRST" + first.Name);
 
 		if (first.Name == item.Name)
 			return true;
