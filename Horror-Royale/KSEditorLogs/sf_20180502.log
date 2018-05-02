@@ -1,0 +1,1765 @@
+2018-05-02 11:54:10.3492 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-02 11:54:14.6464 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-02 11:58:34.5386 [DEBUG] Scene Fusion version 1.7.2-0
+2018-05-02 11:58:34.5535 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.5966 [DEBUG] Play mode: True, sync in play mode: False
+2018-05-02 11:58:34.6068 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.6261 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.6433 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.6600 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.6769 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.6936 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.7102 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.7270 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.7437 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.7607 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.7760 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.7933 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.8106 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.8273 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.8431 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.8595 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.8752 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.8933 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.9086 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.9265 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.9429 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.9586 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.9749 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:34.9927 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.0084 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.0257 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.0431 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.0589 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.0743 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.0915 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.1080 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.1242 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.1419 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.1576 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.1737 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.1910 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.2074 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.2242 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.2401 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.2575 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.2728 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.2907 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.3071 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.3237 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.3396 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.3557 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.3729 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.3901 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.4057 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.4231 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.4397 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.4550 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.4723 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.4888 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.5055 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.5216 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.5385 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.5554 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.5717 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.5890 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.6048 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.6214 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.6375 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.6548 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.6713 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.6873 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.7050 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.7207 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.7383 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.7540 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.7710 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.7875 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.8033 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.8197 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.8366 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.8531 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.8700 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.8870 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.9029 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.9203 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.9358 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.9522 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.9686 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:35.9857 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.0029 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.0188 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.0355 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.0526 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.0689 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.0851 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.1012 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.1184 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.1352 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.1515 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.1682 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.1841 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.2006 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.2172 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.2336 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.2504 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.2670 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.2840 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.3001 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.3202 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.3367 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.3544 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.3709 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.3870 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.4036 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.4198 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.4363 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.4529 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.4694 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.4860 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.5027 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.5193 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.5358 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.5530 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.5691 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.5853 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.6021 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.6184 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.6347 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.6515 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.6685 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.6851 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.7022 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.7180 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.7343 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.7511 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.7677 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.7843 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:36.8014 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.6698 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.6843 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.7008 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.7172 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.7338 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.7500 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.7672 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.7834 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.7998 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.8175 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.8337 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.8499 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.8658 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.8837 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.8999 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.9158 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.9327 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.9490 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.9660 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.9820 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:38.9989 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.0151 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.0319 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.0484 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.0656 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.0818 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.0988 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.1153 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.1315 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.1480 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.1646 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.1811 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.1981 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.2149 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.2309 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.2476 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.2644 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.2809 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.2978 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.3138 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.3309 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.3468 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.3640 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.3797 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.3979 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.4129 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.4305 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.4469 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.4634 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.4799 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.4955 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.5124 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.5286 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.5454 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.5625 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.5796 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.5963 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.6122 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.6289 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.6456 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.6625 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.6780 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.6951 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.7121 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.7281 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.7453 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.7609 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.7783 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.7941 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.8196 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.8265 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.8447 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.8602 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.8778 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.8941 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.9102 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.9270 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.9438 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.9607 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.9769 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:39.9934 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.0090 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.0267 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.0435 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.0600 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.0757 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.0922 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.1093 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.1261 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.1427 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.1596 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.1747 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.1928 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.2084 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.2254 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.2416 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.2579 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.2742 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.2921 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.3074 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.3245 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.3406 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.3575 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.3743 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.3917 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.4072 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.4242 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.4406 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.4572 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.4732 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.4908 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.5073 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.5229 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.5400 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.5571 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.5724 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.5903 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.6058 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.6233 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.6395 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.6556 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.6718 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.6891 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.7058 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.7214 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.7396 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.7551 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.7717 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.7886 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.8049 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.8209 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.8387 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.8554 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.8710 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.8880 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.9039 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.9210 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.9370 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.9542 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.9703 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:40.9866 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.0036 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.0206 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.0368 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.0537 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.0705 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.0866 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.1030 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.1202 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.1367 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.1526 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.1697 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.1853 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.2019 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.2197 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.2354 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.2525 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.2682 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.2850 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.3013 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.3181 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.3355 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.3520 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.3678 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.3853 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.4013 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.4184 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.4337 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.4505 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.4671 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.4843 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.5007 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.5169 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.5337 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.5506 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.5666 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.5838 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.6002 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.6168 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.6336 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.6502 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.6660 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.6834 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.6997 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.7155 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.7324 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.7499 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.7652 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.7822 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.7985 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.8154 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.8324 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.8480 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.8648 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.8814 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.8986 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.9151 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.9327 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.9478 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.9644 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.9814 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:41.9976 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:42.0150 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:42.0308 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:42.0466 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:42.0642 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:42.0802 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:42.0975 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:42.1136 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.0900 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.1056 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.1231 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.1393 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.1553 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.1722 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.1880 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.2058 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.2215 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.2389 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.2587 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.2718 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.2883 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.3043 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.3219 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.3377 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.3550 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.3712 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.3880 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.4044 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.4205 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.4371 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.4541 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.4702 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.4872 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.5042 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.5203 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.5370 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.5537 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.5700 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.5860 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.6030 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.6196 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.6354 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.6535 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.6692 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.6861 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.7022 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.7195 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.7351 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.7526 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.7685 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.7852 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.8024 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.8190 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.8357 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.8519 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.8678 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.8837 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.9007 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.9170 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.9337 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.9509 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.9677 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:43.9838 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.0000 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.0174 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.0341 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.0493 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.0671 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.0835 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.0994 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.1162 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.1325 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.1498 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.1655 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.1822 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.1998 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.2154 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.2322 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.2484 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.2660 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.2815 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.2983 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.3157 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.3315 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.3478 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.3644 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.3813 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.3977 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.4144 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.4314 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.4469 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.4647 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.4807 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.4976 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.5137 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.5302 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.5469 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.5634 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.5805 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.5966 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.6139 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.6299 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.6467 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.6629 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.6806 [ERROR] UnassignedReferenceException: The variable canvas of FirstPersonController has not been assigned.
+You probably need to assign the canvas variable of the FirstPersonController script in the inspector.
+UnityStandardAssets.Characters.FirstPerson.FirstPersonController.Update () (at Assets/Asset-Models/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs:91)
+
+2018-05-02 11:58:44.9217 [DEBUG] Play mode: False
