@@ -6,7 +6,6 @@ public class Raycast : MonoBehaviour {
 
 	public float clickRate = 0.50f;
 	public float clickRange = 20f;
-	public GameObject weaponMarker;
 	private float nextFire;
 
 	// Update is called once per frame
