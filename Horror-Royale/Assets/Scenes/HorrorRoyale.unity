@@ -7200,7 +7200,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickRate: 0.5
   clickRange: 20
-  weaponMarker: {fileID: 0}
 --- !u!114 &351484992
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7214,7 +7213,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickRate: 0.5
   clickRange: 20
-  weaponMarker: {fileID: 0}
 --- !u!1 &351903432
 GameObject:
   m_ObjectHideFlags: 0
@@ -11172,7 +11170,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickRate: 0.5
   clickRange: 20
-  weaponMarker: {fileID: 0}
 --- !u!4 &530151932 stripped
 Transform:
   m_PrefabParentObject: {fileID: 401912, guid: a71dd1fa6efddfa41990980cd044de47, type: 2}
@@ -25448,7 +25445,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickRate: 0.5
   clickRange: 20
-  weaponMarker: {fileID: 25547638}
 --- !u!1001 &1210908965
 Prefab:
   m_ObjectHideFlags: 0
@@ -27477,10 +27473,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1322403745}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dd9637d0e06d9824b87b47e5a44b0c6e, type: 3}
+  m_Script: {fileID: 11500000, guid: d8e241033f574a5439692a01dc354cee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inventory: {fileID: 0}
+  clickRate: 1
 --- !u!1001 &1325048673
 Prefab:
   m_ObjectHideFlags: 0
@@ -41946,7 +41942,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickRate: 0.5
   clickRange: 20
-  weaponMarker: {fileID: 0}
 --- !u!136 &2056508051
 CapsuleCollider:
   m_ObjectHideFlags: 0
