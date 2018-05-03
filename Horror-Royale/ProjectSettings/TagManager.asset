@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Boulder
   - lightFlicker
+  - weapon1
   layers:
   - Default
   - TransparentFX

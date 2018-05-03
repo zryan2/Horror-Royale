@@ -8,6 +8,15 @@ public class Raycast : MonoBehaviour {
 	public float clickRange = 20f;
 	private float nextFire;
 
+
+	GameObject weapon_1;
+
+	void Start(){
+		int weapon_1Location = Random.Range (1, 4);
+		weapon_1 = GameObject.Find ("weapon_"+ weapon_1Location +"_floor");
+		weapon_1.GetComponent<MeshRenderer> ().enabled = true;
+
+	}
 	// Update is called once per frame
 	void Update () {
 
@@ -29,10 +38,9 @@ public class Raycast : MonoBehaviour {
 					print ("Found 1st clue!");
 				else if (hit.collider.gameObject.name == "Clue_2")
 					print ("Found 2nd clue!");
-				else if (hit.collider.gameObject.name == "weapon_1_floor") {
-					GameObject weapon_1 = GameObject.Find ("weapon_1_floor");
+				else if (hit.collider.gameObject.tag == "weapon1") {
 					weapon_1.SetActive (false);
-					GameObject.Find ("weapon_1_attached").GetComponent<MeshRenderer> ().enabled = true;
+					GameObject.Find("weapon_1_attached").GetComponent<MeshRenderer> ().enabled = true;
 
 				}
 				else {

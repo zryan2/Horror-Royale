@@ -23,7 +23,6 @@ public class ChaseAudio : MonoBehaviour {
 
 	void OnTriggerEnter(Collider col){
 		if (col.name == "Player") {
-			Debug.Log ("MONSTER MONSTER");
 			audioSource.PlayOneShot (monsterClose);
 			inCollider = true;
 		}

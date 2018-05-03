@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.Characters.FirstPerson;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class OnCollisionEnter : MonoBehaviour {
 
@@ -30,7 +31,7 @@ public class OnCollisionEnter : MonoBehaviour {
 
 	void OnTriggerEnter(Collider col){
 		if (col.name == "Player") {
-			Debug.Log ("MONSTER MONSTER");
+			//Debug.Log ("MONSTER MONSTER");
 			GameObject.Find ("Player").GetComponent<FirstPersonController> ().enabled = false;
 			StartCoroutine (ScaryFace());
 		}
@@ -52,7 +53,15 @@ public class OnCollisionEnter : MonoBehaviour {
 			jumpImage.GetComponent<RawImage> ().rectTransform.Rotate (new Vector3 (0, 0, -30f));
 			jumpRotate = true;
 		}
+		Debug.Log ("PLAY AGAIN");
+		StartCoroutine (playAgain ());
 
+
+	}
+	IEnumerator playAgain(){
+		yield return new WaitForSeconds (2);
+		Application.LoadLevel(Application.loadedLevel);
+		Debug.Log ("PLAY AGAIN");
 	}
 
 }

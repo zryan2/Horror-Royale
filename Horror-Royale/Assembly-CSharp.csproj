@@ -135,10 +135,8 @@
      <Compile Include="Assets\Main\Scripts\PlayerPickUp.cs" />
      <Compile Include="Assets\Main\Scripts\Raycast.cs" />
      <Compile Include="Assets\Main\Scripts\WeaponHint.cs" />
+     <Compile Include="Assets\Main\Scripts\WeaponHit.cs" />
      <Compile Include="Assets\Main\Scripts\WeaponSwing.cs" />
-     <Compile Include="Assets\Menu.cs" />
-     <Compile Include="Assets\Menu2.cs" />
-     <Compile Include="Assets\MiniMapScript.cs" />
      <Compile Include="Assets\Scripts\ClickItem.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />
      <Compile Include="Assets\Scripts\Gun.cs" />
@@ -150,6 +148,9 @@
      <Compile Include="Assets\Scripts\ItemDrag.cs" />
      <Compile Include="Assets\Scripts\ItemDrop.cs" />
      <Compile Include="Assets\Scripts\Key.cs" />
+     <Compile Include="Assets\Scripts\Menu.cs" />
+     <Compile Include="Assets\Scripts\Menu2.cs" />
+     <Compile Include="Assets\Scripts\MiniMapScript.cs" />
      <Compile Include="Assets\Scripts\OpenDoor.cs" />
      <None Include="Assets\Asset-Models\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\Asset-Models\TreeAssets\Packs\BirchPackVol1\Works For Fun.txt" />
