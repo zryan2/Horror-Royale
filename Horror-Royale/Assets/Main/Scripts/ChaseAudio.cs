@@ -14,7 +14,7 @@ public class ChaseAudio : MonoBehaviour {
 	void Start () {
 		audioSource = GetComponent<AudioSource> ();	
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		if (!inCollider)
@@ -23,7 +23,6 @@ public class ChaseAudio : MonoBehaviour {
 
 	void OnTriggerEnter(Collider col){
 		if (col.name == "Player") {
-			Debug.Log ("MONSTER MONSTER");
 			audioSource.PlayOneShot (monsterClose);
 			inCollider = true;
 		}
