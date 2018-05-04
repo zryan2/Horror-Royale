@@ -61,6 +61,7 @@
      <Compile Include="Assets\Asset-Models\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
+     <Compile Include="Assets\Asset-Models\Standard Assets\CrosshairGUI.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
@@ -72,6 +73,8 @@
      <Compile Include="Assets\Asset-Models\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\Asset-Models\Standard Assets\GUI\GUINotes.cs" />
+     <Compile Include="Assets\Asset-Models\Standard Assets\GUI\Notes.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\Utility\ActivateTrigger.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\Utility\AlphaButtonClickMask.cs" />
      <Compile Include="Assets\Asset-Models\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
@@ -140,6 +143,7 @@
      <Compile Include="Assets\Menu.cs" />
      <Compile Include="Assets\Menu2.cs" />
      <Compile Include="Assets\MiniMapScript.cs" />
+     <Compile Include="Assets\Note.cs" />
      <Compile Include="Assets\Scripts\ClickItem.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />
      <Compile Include="Assets\Scripts\Gun.cs" />
@@ -152,6 +156,12 @@
      <Compile Include="Assets\Scripts\ItemDrop.cs" />
      <Compile Include="Assets\Scripts\Key.cs" />
      <Compile Include="Assets\Scripts\OpenDoor.cs" />
+     <Compile Include="Assets\Sky FX Pack\Scripts\LightBeamsControlScript.cs" />
+     <Compile Include="Assets\Sky FX Pack\Scripts\LookAtBehaviour.cs" />
+     <Compile Include="Assets\Sky FX Pack\Scripts\LookAtCameraBehaviour.cs" />
+     <Compile Include="Assets\Sky FX Pack\Scripts\RayBehavior.cs" />
+     <Compile Include="Assets\Sky FX Pack\Scripts\RotateBehaviour.cs" />
+     <Compile Include="Assets\Sky FX Pack\Scripts\ScrollBehaviour.cs" />
      <None Include="Assets\Asset-Models\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\Asset-Models\TreeAssets\Packs\BirchPackVol1\Works For Fun.txt" />
      <None Include="Assets\Asset-Models\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
@@ -175,6 +185,7 @@
      <None Include="Assets\Asset-Models\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <None Include="Assets\Asset-Models\TextMesh Pro\Examples &amp; Extras\Fonts\LiberationSans - OFL.txt" />
      <None Include="Assets\Asset-Models\Foliage Free\Readme.txt" />
+     <None Include="Assets\Asset-Models\Standard Assets\GUI\PickupEmission.shader" />
      <None Include="Assets\Asset-Models\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
      <None Include="Assets\Asset-Models\Raw Mocap Data\Animations\_CompleteAnimationList.txt" />
      <None Include="Assets\Asset-Models\TreeAssets\Tree1\ReadMe.txt" />
@@ -274,6 +285,10 @@
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/harsh/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{E016D15F-CF23-A098-D860-140A6A52AA1B}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
