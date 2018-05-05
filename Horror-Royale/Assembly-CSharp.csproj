@@ -140,10 +140,10 @@
      <Compile Include="Assets\Main\Scripts\PlayerPickUp.cs" />
      <Compile Include="Assets\Main\Scripts\Raycast.cs" />
      <Compile Include="Assets\Main\Scripts\WeaponHint.cs" />
+     <Compile Include="Assets\MainMenu.cs" />
      <Compile Include="Assets\Menu.cs" />
      <Compile Include="Assets\Menu2.cs" />
      <Compile Include="Assets\MiniMapScript.cs" />
-     <Compile Include="Assets\Note.cs" />
      <Compile Include="Assets\Scripts\ClickItem.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />
      <Compile Include="Assets\Scripts\Gun.cs" />
@@ -159,6 +159,7 @@
      <Compile Include="Assets\Sky FX Pack\Scripts\LightBeamsControlScript.cs" />
      <Compile Include="Assets\Sky FX Pack\Scripts\LookAtBehaviour.cs" />
      <Compile Include="Assets\Sky FX Pack\Scripts\LookAtCameraBehaviour.cs" />
+     <Compile Include="Assets\Sky FX Pack\Scripts\Note.cs" />
      <Compile Include="Assets\Sky FX Pack\Scripts\RayBehavior.cs" />
      <Compile Include="Assets\Sky FX Pack\Scripts\RotateBehaviour.cs" />
      <Compile Include="Assets\Sky FX Pack\Scripts\ScrollBehaviour.cs" />

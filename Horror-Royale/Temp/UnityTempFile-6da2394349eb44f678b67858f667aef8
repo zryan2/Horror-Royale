@@ -96,6 +96,7 @@
 -define:UNITY_2017
 -define:PLATFORM_ARCH_64
 -define:UNITY_64
+-define:UNITY_ANALYTICS
 -define:ENABLE_AUDIO
 -define:ENABLE_CACHING
 -define:ENABLE_CLOTH
@@ -205,7 +206,8 @@
 'Assets/Asset-Models/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs'
 'Assets/Asset-Models/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs'
 'Assets/Asset-Models/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs'
-'Assets/Asset-Models/Standard Assets/GUINotes.cs'
+'Assets/Asset-Models/Standard Assets/GUI/GUINotes.cs'
+'Assets/Asset-Models/Standard Assets/GUI/Notes.cs'
 'Assets/Asset-Models/Standard Assets/Utility/ActivateTrigger.cs'
 'Assets/Asset-Models/Standard Assets/Utility/AlphaButtonClickMask.cs'
 'Assets/Asset-Models/Standard Assets/Utility/AutoMobileShaderSwitch.cs'
@@ -274,7 +276,6 @@
 'Assets/Menu.cs'
 'Assets/Menu2.cs'
 'Assets/MiniMapScript.cs'
-'Assets/Note.cs'
 'Assets/Scripts/ClickItem.cs'
 'Assets/Scripts/FlickerLight.cs'
 'Assets/Scripts/Gun.cs'
@@ -290,6 +291,7 @@
 'Assets/Sky FX Pack/Scripts/LightBeamsControlScript.cs'
 'Assets/Sky FX Pack/Scripts/LookAtBehaviour.cs'
 'Assets/Sky FX Pack/Scripts/LookAtCameraBehaviour.cs'
+'Assets/Sky FX Pack/Scripts/Note.cs'
 'Assets/Sky FX Pack/Scripts/RayBehavior.cs'
 'Assets/Sky FX Pack/Scripts/RotateBehaviour.cs'
 'Assets/Sky FX Pack/Scripts/ScrollBehaviour.cs'
