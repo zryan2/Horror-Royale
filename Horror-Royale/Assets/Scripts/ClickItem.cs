@@ -149,7 +149,7 @@ public class ClickItem : MonoBehaviour
 //		graphic.CrossFadeColor(color, _button.colors.fadeDuration, true, true);
 //	}
 
-	private ItemBaseClass AttachedItem
+	private ItemBaseClass itemUsed
 	{
 		get
 		{
@@ -162,7 +162,7 @@ public class ClickItem : MonoBehaviour
 
 	public void OnItemClicked()
 	{
-		 item = AttachedItem;
+		 item = itemUsed;
 		Debug.Log ("CLICKED");
 //		didChoose = true;
 
