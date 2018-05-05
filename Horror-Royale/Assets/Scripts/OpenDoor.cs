@@ -11,6 +11,7 @@ public class OpenDoor : MonoBehaviour {
 	public string keyItem;
 	public int angle;
 	public bool didChoose;
+	public ItemBaseClass itemChose;
 
 
 
@@ -20,13 +21,13 @@ public class OpenDoor : MonoBehaviour {
 	}
 
 	void Update(){
-		ItemBaseClass itemChose = clickItem.item;;
 		didChoose = clickItem.chooseItem;
 		Debug.Log ("DID CHOOSE IS " + didChoose);
 //		Debug.Log ("ITEM CHOSE IS " + itemChose);
 		//if (didChoose) {
-		if (Input.GetKeyDown (KeyCode.Alpha6)) {
+		if (didChoose) {
 //			Debug.Log ("DID CHOOSE IS " + didChoose);
+			itemChose = clickItem.item;
 			Debug.Log ("ITEM CHOSE IS " + itemChose);
 			if (counter != 1) {
 				if (itemChose.name== keyItem) {

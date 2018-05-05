@@ -135,6 +135,9 @@ public class ClickItem : MonoBehaviour
 			//FadeToColor(_button.colors.pressedColor);
 
 			// Click the button
+
+			item = itemUsed;
+			Debug.Log ("CLICKED " + item);
 			button.onClick.Invoke();
 		}
 //		else if(Input.GetKeyUp(key))
@@ -162,8 +165,8 @@ public class ClickItem : MonoBehaviour
 
 	public void OnItemClicked()
 	{
-		 item = itemUsed;
-		Debug.Log ("CLICKED");
+//		 item = itemUsed;
+//		Debug.Log ("CLICKED");
 //		didChoose = true;
 
 //		if (item != null)
