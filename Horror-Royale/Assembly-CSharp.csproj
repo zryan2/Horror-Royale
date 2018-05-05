@@ -131,8 +131,10 @@
      <Compile Include="Assets\Asset-Models\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
      <Compile Include="Assets\Main\Scripts\ChaseAudio.cs" />
      <Compile Include="Assets\Main\Scripts\ChasePlayer.cs" />
+     <Compile Include="Assets\Main\Scripts\Journal.cs" />
      <Compile Include="Assets\Main\Scripts\OnCollisionEnter.cs" />
      <Compile Include="Assets\Main\Scripts\PlayerPickUp.cs" />
+     <Compile Include="Assets\Main\Scripts\PressurePlate.cs" />
      <Compile Include="Assets\Main\Scripts\Raycast.cs" />
      <Compile Include="Assets\Main\Scripts\WeaponHint.cs" />
      <Compile Include="Assets\Main\Scripts\WeaponHit.cs" />

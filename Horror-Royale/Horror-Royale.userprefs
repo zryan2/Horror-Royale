@@ -2,20 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Main\Scripts\ChaseAudio.cs">
     <Files>
-      <File FileName="Assets\Scripts\ClickItem.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\HUD.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Inventory.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\InventoryItem.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\InventorySlot.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ItemBaseClass.cs" Line="6" Column="1" />
-      <File FileName="Assets\Scripts\OpenDoor.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FlickerLight.cs" Line="1" Column="1" />
-      <File FileName="Assets\Main\Scripts\PlayerPickUp.cs" Line="18" Column="1" />
-      <File FileName="Assets\Main\Scripts\Raycast.cs" Line="1" Column="1" />
-      <File FileName="Assets\Main\Scripts\OnCollisionEnter.cs" Line="22" Column="73" />
-      <File FileName="Assets\Main\Scripts\ChasePlayer.cs" Line="1" Column="1" />
-      <File FileName="Assets\Main\Scripts\ChaseAudio.cs" Line="1" Column="1" />
-      <File FileName="Assets\Main\Scripts\WeaponHint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main\Scripts\ChaseAudio.cs" Line="35" Column="1" />
+      <File FileName="Assets\Main\Scripts\ChasePlayer.cs" Line="42" Column="1" />
+      <File FileName="Assets\Main\Scripts\OnCollisionEnter.cs" Line="35" Column="83" />
+      <File FileName="Assets\Main\Scripts\Raycast.cs" Line="37" Column="57" />
+      <File FileName="Assets\Main\Scripts\PlayerPickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main\Scripts\Journal.cs" Line="20" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
