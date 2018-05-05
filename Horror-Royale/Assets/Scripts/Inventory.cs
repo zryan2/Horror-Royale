@@ -50,8 +50,8 @@ public class Inventory : MonoBehaviour {
 	}
 
 	public void AddItem(ItemBaseClass item){
-		//Debug.Log ("ADDDDDD");
 		item.pickupItem ();
+		//Debug.Log("adding " + item);
 		InventorySlot newSlot = FindStackableItem (item);
 		if (newSlot == null) {
 			newSlot = FindNextEmptySlot();

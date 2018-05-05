@@ -12,28 +12,28 @@ public class OpenDoor : MonoBehaviour {
 	public int angle;
 	public bool didChoose;
 	public ItemBaseClass itemChose;
+	public KeyCode iKey;
 
 
 
 	void Start(){
 		GameObject inventoryPanel = GameObject.Find("InventoryPanel");
+		//clickItem = otherGameObject.GetComponent();
 		clickItem = inventoryPanel.GetComponent<ClickItem> ();
 	}
 
 	void Update(){
 		didChoose = clickItem.chooseItem;
 		Debug.Log ("DID CHOOSE IS " + didChoose);
-//		Debug.Log ("ITEM CHOSE IS " + itemChose);
-		//if (didChoose) {
 		if (didChoose) {
-//			Debug.Log ("DID CHOOSE IS " + didChoose);
+
 			itemChose = clickItem.item;
-			Debug.Log ("ITEM CHOSE IS " + itemChose);
+			Debug.Log ("THE ITEM IS " + itemChose);
 			if (counter != 1) {
 				if (itemChose.name== keyItem) {
 					openingDoor ();
 				
-//					Debug.Log ("THE ITEM IS " + item);
+
 					counter = 1;
 				}
 			}
