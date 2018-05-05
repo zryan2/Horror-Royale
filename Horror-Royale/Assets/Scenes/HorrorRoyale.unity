@@ -3098,14 +3098,14 @@ RectTransform:
   m_GameObject: {fileID: 113917310}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: -1.2000012}
+  m_AnchoredPosition: {x: -34.800034, y: -1.2000012}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &113917312
@@ -3140,7 +3140,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 4 test
+  m_Text: Press the plate behind the boxes
 --- !u!222 &113917313
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12128,15 +12128,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 8.21
+      value: -5.2
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.09
+      value: 1.28
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 6.88
+      value: -9.56
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalRotation.x
@@ -12160,15 +12160,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.x
-      value: 8.5476265
+      value: 5.3007646
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.y
-      value: 8.547621
+      value: 5.3007607
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.z
-      value: 8.547621
+      value: 5.3007607
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -17972,7 +17972,7 @@ GameObject:
   - component: {fileID: 768735078}
   - component: {fileID: 768735077}
   m_Layer: 0
-  m_Name: Clue_4
+  m_Name: Clue_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17990,7 +17990,7 @@ Transform:
   m_LocalScale: {x: 0.3542028, y: 0.00804264, z: 0.48743284}
   m_Children: []
   m_Father: {fileID: 1460234492}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!23 &768735077
 MeshRenderer:
@@ -25847,14 +25847,14 @@ RectTransform:
   m_GameObject: {fileID: 1119060135}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: -9.574214}
+  m_AnchoredPosition: {x: -34.800034, y: -9.574214}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1119060137
@@ -25889,7 +25889,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 5 test
+  m_Text: Congratulations
 --- !u!222 &1119060138
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -27657,14 +27657,14 @@ RectTransform:
   m_GameObject: {fileID: 1196905115}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049931824, y: 0.049931824, z: 0.049931824}
+  m_LocalScale: {x: 0.045405757, y: 0.045405757, z: 0.045405757}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.5, y: 26.2}
+  m_AnchoredPosition: {x: -34.8, y: 26.2}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1196905117
@@ -27699,7 +27699,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 1 test
+  m_Text: The place you get water is filled with a key
 --- !u!222 &1196905118
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29337,7 +29337,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 7.2699976
+      value: 34.02
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.y
@@ -29345,7 +29345,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 7.6100006
+      value: -14.04
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalRotation.x
@@ -29369,15 +29369,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.x
-      value: 8.5476265
+      value: 5.5061646
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.y
-      value: 8.547621
+      value: 5.506161
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.z
-      value: 8.547621
+      value: 5.506161
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -31138,7 +31138,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1000011955980886, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a846498471c8c42438a83ecfb1486238, type: 2}
@@ -32697,14 +32697,14 @@ RectTransform:
   m_GameObject: {fileID: 1459647143}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: 7.9}
+  m_AnchoredPosition: {x: -34.800034, y: 7.9}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1459647145
@@ -32739,7 +32739,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 3 test
+  m_Text: In the halls filled with blood
 --- !u!222 &1459647146
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -36585,7 +36585,7 @@ GameObject:
   - component: {fileID: 1633419000}
   - component: {fileID: 1633418999}
   m_Layer: 0
-  m_Name: Clue_5
+  m_Name: Clue_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36603,7 +36603,7 @@ Transform:
   m_LocalScale: {x: 0.5982942, y: 0.013585055, z: 0.8233369}
   m_Children: []
   m_Father: {fileID: 1460234492}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1633418999
 MeshRenderer:
@@ -38072,7 +38072,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &1692516750
 Light:
   m_ObjectHideFlags: 0
@@ -41868,14 +41868,14 @@ RectTransform:
   m_GameObject: {fileID: 1837407432}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: 17.199999}
+  m_AnchoredPosition: {x: -34.800034, y: 17.199999}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1837407434
@@ -41910,7 +41910,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 2 test
+  m_Text: A place where a man rests for all of eternity
 --- !u!222 &1837407435
 CanvasRenderer:
   m_ObjectHideFlags: 0
