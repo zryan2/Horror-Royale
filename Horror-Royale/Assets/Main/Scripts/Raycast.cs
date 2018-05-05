@@ -9,6 +9,7 @@ public class Raycast : MonoBehaviour {
 	public float clickRange = 1f;
 	private float nextFire;
 
+	public Inventory inventory;
 
 	GameObject weapon_1;
 
@@ -63,6 +64,12 @@ public class Raycast : MonoBehaviour {
 				else {
 					theDistance = hit.distance;
 					print (theDistance + " " + hit.collider.gameObject.name);
+
+					InteractableItemBaseClass item = hit.collider.GetComponent<InteractableItemBaseClass> (); //sets var item into object player ran into
+					Debug.Log("hit!");
+					if (item != null) { 
+						inventory.AddItem (item as ItemBaseClass); // adds item into inventory 
+					}
 				}
 			}
 		}

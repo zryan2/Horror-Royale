@@ -32319,6 +32319,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickRate: 0.5
   clickRange: 3
+  inventory: {fileID: 207883593}
 --- !u!1001 &1452008358
 Prefab:
   m_ObjectHideFlags: 0
