@@ -55,11 +55,10 @@ public class Inventory : MonoBehaviour {
 		InventorySlot newSlot = FindStackableItem (item);
 		if (newSlot == null) {
 			newSlot = FindNextEmptySlot();
-			//Debug.Log ("AddItem----newSlot: NULL"+ newSlot);
+		
 		}
 		if (newSlot != null) {
 			newSlot.AddItem (item);
-			//Debug.Log ("AddItem to slot");
 
 			if (ItemAdded != null) {
 				ItemAdded (this, new InventoryEventArgs (item));
@@ -84,4 +83,14 @@ public class Inventory : MonoBehaviour {
 			ItemUsed (this, new InventoryEventArgs (item));
 		}
 	}
+
+	public void useInventory(int slotNum){
+		for (int i = 0; i < slotNum; i++) {
+			if (i == slotNum) {
+				mSlots[i] = null;
+			}
+		}
+	}
+
+
 }

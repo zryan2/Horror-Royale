@@ -19,7 +19,6 @@ public class InventorySlot{
 	public void AddItem(ItemBaseClass item){
 		item.Slot = this;
 		mItemStack.Push (item);
-//		Debug.Log ("AddItem" + item);
 	}
 
 	public ItemBaseClass FirstItem{
@@ -59,7 +58,7 @@ public class InventorySlot{
 		}
 		return false; 
 	}
-
+		
 }
 
 

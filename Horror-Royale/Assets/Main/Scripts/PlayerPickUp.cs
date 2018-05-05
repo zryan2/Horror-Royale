@@ -11,7 +11,6 @@ public class PlayerPickUp : MonoBehaviour {
 		Debug.Log("hit!");
 		if (item != null) { 
 			inventory.AddItem (item as ItemBaseClass); // adds item into inventory 
-			Debug.Log ("Adding: " + item);
 		}
 	}
 }

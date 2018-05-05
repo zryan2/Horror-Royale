@@ -39,7 +39,7 @@ public class HUD : MonoBehaviour {
 				else
 					textCount.text = "";
 				
-//				itemDrag.Item = e.Item;
+				itemDrag.Item = e.Item;
 				itemDrag.Item = (ItemBaseClass)e.Item;
 
 				break;
@@ -66,7 +66,7 @@ public class HUD : MonoBehaviour {
 			
 			if (e.Item.Slot.Id == counter) {
 				int itemCount = e.Item.Slot.Count;
-//				itemDrag.Item = e.Item.Slot.FirstItem;
+				itemDrag.Item = e.Item.Slot.FirstItem;
 				itemDrag.Item = (ItemBaseClass)e.Item.Slot.FirstItem;
 
 				if (itemCount < 2) {

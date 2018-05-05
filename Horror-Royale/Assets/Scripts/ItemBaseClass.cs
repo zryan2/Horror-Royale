@@ -23,14 +23,14 @@ public class ItemBaseClass:InteractableItemBaseClass{
 		gameObject.SetActive(false);
 	}
 
-	public virtual void OnDrop(){
-		RaycastHit hit = new RaycastHit ();
-		Ray ray = Camera.main.ScreenPointToRay (Input.mousePosition);
-		if (Physics.Raycast(ray, out hit, 1000)){
-			gameObject.SetActive(true);
-			gameObject.transform.position = hit.point; 
-		}
-	}
+//	public virtual void OnDrop(){
+//		RaycastHit hit = new RaycastHit ();
+//		Ray ray = Camera.main.ScreenPointToRay (Input.mousePosition);
+//		if (Physics.Raycast(ray, out hit, 1000)){
+//			gameObject.SetActive(true);
+//			gameObject.transform.position = hit.point; 
+//		}
+//	}
 	
 }
 
