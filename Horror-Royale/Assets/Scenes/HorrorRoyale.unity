@@ -221,7 +221,7 @@ Transform:
   m_Children:
   - {fileID: 364772106}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 25.825, z: 0}
 --- !u!114 &5275839
 MonoBehaviour:
@@ -234,15 +234,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11c3d8a49062f46dda866d133f337773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   keyItem: doorKey
   angle: -90
+  didChoose: 0
   itemChose: {fileID: 0}
-=======
-  itemChose: 
-  keyItem: doorKey
-  angle: -90
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  iKey: 0
 --- !u!114 &5275840
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -254,16 +250,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   inventory: {fileID: 207883593}
-  key: 0
   item: {fileID: 0}
-=======
-  inventory: {fileID: 0}
-  key: 0
-  item: {fileID: 0}
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!1001 &5982349
 Prefab:
@@ -422,7 +417,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &8992608
 Prefab:
@@ -586,7 +581,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 479620, guid: 15c7d4ef5fd68124aadaf69836973b43, type: 2}
   m_PrefabInternal: {fileID: 15145859}
-<<<<<<< HEAD
 --- !u!1001 &16393886
 Prefab:
   m_ObjectHideFlags: 0
@@ -653,8 +647,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 85f77ffaa5761174d8f257cebbe8a690, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &18702437
 Prefab:
   m_ObjectHideFlags: 0
@@ -2469,6 +2461,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 416174, guid: a5b8b332bed7b7b409ea83cd470e2604, type: 2}
   m_PrefabInternal: {fileID: 82849239}
+--- !u!1 &84466730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1490804052102734, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 84466731}
+  m_Layer: 0
+  m_Name: Bip01 Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &84466731
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4712930021742370, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 84466730}
+  m_LocalRotation: {x: -4.9632846e-13, y: -0.0000009903237, z: 0.35705414, w: 0.9340837}
+  m_LocalPosition: {x: -0.12610061, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 1247922878}
+  m_Father: {fileID: 1648044161}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &85276439
 GameObject:
   m_ObjectHideFlags: 0
@@ -2896,7 +2919,6 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
   m_PrefabInternal: {fileID: 1336847963}
-<<<<<<< HEAD
 --- !u!1 &108895214
 GameObject:
   m_ObjectHideFlags: 0
@@ -3001,8 +3023,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.037658654, y: 0.03308055, z: 0.03562381}
   m_Center: {x: 0.000000002054351, y: 0.0017343275, z: 0.017233146}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &112690579
 Prefab:
   m_ObjectHideFlags: 0
@@ -3053,7 +3073,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 418792, guid: f7062f5e280305843958a840362dd8b9, type: 2}
   m_PrefabInternal: {fileID: 112690579}
-<<<<<<< HEAD
 --- !u!1 &113917310
 GameObject:
   m_ObjectHideFlags: 0
@@ -3079,14 +3098,14 @@ RectTransform:
   m_GameObject: {fileID: 113917310}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: -1.2000012}
+  m_AnchoredPosition: {x: -34.800034, y: -1.2000012}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &113917312
@@ -3121,15 +3140,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 4 test
+  m_Text: Press the plate behind the boxes
 --- !u!222 &113917313
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 113917310}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &115735197
 Prefab:
   m_ObjectHideFlags: 0
@@ -3567,7 +3584,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &140225236
 Prefab:
@@ -4199,7 +4216,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 498930, guid: 790c5b42365e7134487364e91d069939, type: 2}
   m_PrefabInternal: {fileID: 181810070}
-<<<<<<< HEAD
 --- !u!1001 &182658442
 Prefab:
   m_ObjectHideFlags: 0
@@ -4258,8 +4274,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 556fb3c58e7712445b32e6b881eb9af2, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1 &182872823
 GameObject:
   m_ObjectHideFlags: 0
@@ -4306,18 +4320,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 182872823}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 207883593}
-  key: 54
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &182872826
 MonoBehaviour:
@@ -4325,7 +4341,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 182872823}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -4878,7 +4894,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5543,7 +5559,6 @@ Transform:
   m_Father: {fileID: 974847731}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &234063508
 GameObject:
   m_ObjectHideFlags: 0
@@ -5611,8 +5626,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 234063508}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!4 &235844914 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4000013996190800, guid: 556fb3c58e7712445b32e6b881eb9af2,
@@ -5718,18 +5731,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 239336324}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 207883593}
-  key: 51
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &239336327
 MonoBehaviour:
@@ -5737,7 +5752,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 239336324}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -7245,10 +7260,7 @@ GameObject:
   - component: {fileID: 320520698}
   - component: {fileID: 320520697}
   - component: {fileID: 320520696}
-<<<<<<< HEAD
   - component: {fileID: 320520701}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_Layer: 0
   m_Name: FirstPersonCharacter
   m_TagString: MainCamera
@@ -7357,7 +7369,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
-<<<<<<< HEAD
 --- !u!114 &320520701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7375,8 +7386,6 @@ MonoBehaviour:
   openJournal: {fileID: 2800000, guid: 980864baf2436df439817d934b5552e2, type: 3}
   closeJournal: {fileID: 2800000, guid: 30e2dedce2626d8429968b27bbaaef43, type: 3}
   clickRate: 0.25
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &321326407
 Prefab:
   m_ObjectHideFlags: 0
@@ -7630,13 +7639,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 331514531}
-<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 99.779, y: -2.604159, z: 125.22396}
-=======
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 149.18304, y: -1.0695567, z: 141.99802}
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1365483803}
@@ -7649,13 +7653,8 @@ Transform:
   - {fileID: 1216354672}
   - {fileID: 600684395}
   - {fileID: 344379425}
-<<<<<<< HEAD
   m_Father: {fileID: 1053812656}
   m_RootOrder: 22
-=======
-  m_Father: {fileID: 0}
-  m_RootOrder: 17
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &337536929
 Prefab:
@@ -7963,13 +7962,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 353365592}
-<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 92.49595, y: -0.12584615, z: 125.52595}
-=======
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 141.9, y: 1.4087563, z: 142.3}
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1880304176}
@@ -7981,13 +7975,8 @@ Transform:
   - {fileID: 369322733}
   - {fileID: 1421377096}
   - {fileID: 321326408}
-<<<<<<< HEAD
   m_Father: {fileID: 1053812656}
   m_RootOrder: 21
-=======
-  m_Father: {fileID: 0}
-  m_RootOrder: 16
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &354444621 stripped
 Transform:
@@ -8536,11 +8525,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1553452786}
-<<<<<<< HEAD
   m_RootOrder: 1
-=======
-  m_RootOrder: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &369698764
 MonoBehaviour:
@@ -9546,11 +9531,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-<<<<<<< HEAD
     m_RotationOrder: 0
-=======
-    m_RotationOrder: 4
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -9787,7 +9768,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 459634, guid: e36811d30efa42c4b87db17c12d92e40, type: 2}
   m_PrefabInternal: {fileID: 402880630}
-<<<<<<< HEAD
 --- !u!1001 &403153777
 Prefab:
   m_ObjectHideFlags: 0
@@ -9846,8 +9826,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 10efb94c6bff2ac4ead891c26d371ef4, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &403326316
 Prefab:
   m_ObjectHideFlags: 0
@@ -10238,7 +10216,6 @@ Transform:
   m_Father: {fileID: 1053812656}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1001 &414273314
 Prefab:
   m_ObjectHideFlags: 0
@@ -10305,8 +10282,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
   m_PrefabInternal: {fileID: 414273314}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+--- !u!1 &414609338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1823465484809292, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 414609339}
+  m_Layer: 0
+  m_Name: Bip01 R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &414609339
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4930844856983438, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 414609338}
+  m_LocalRotation: {x: -0.00000003408556, y: -0.000000041530168, z: 0.2912493, w: 0.9566472}
+  m_LocalPosition: {x: -0.31570107, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 550724757}
+  m_Father: {fileID: 1725892978}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &419584979
 Prefab:
   m_ObjectHideFlags: 0
@@ -11614,7 +11620,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 418792, guid: f7062f5e280305843958a840362dd8b9, type: 2}
   m_PrefabInternal: {fileID: 499199655}
-<<<<<<< HEAD
 --- !u!1 &499249301
 GameObject:
   m_ObjectHideFlags: 0
@@ -11797,8 +11802,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &504504609
 Prefab:
   m_ObjectHideFlags: 0
@@ -12125,15 +12128,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 8.21
+      value: -5.2
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.09
+      value: 1.28
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 6.88
+      value: -9.56
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalRotation.x
@@ -12153,23 +12156,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_RootOrder
-<<<<<<< HEAD
-      value: 15
-=======
-      value: 18
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.x
-      value: 8.5476265
+      value: 5.3007646
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.y
-      value: 8.547621
+      value: 5.3007607
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.z
-      value: 8.547621
+      value: 5.3007607
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -12633,12 +12632,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 0}
-  key: 0
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &548542315
 MonoBehaviour:
@@ -12662,15 +12663,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11c3d8a49062f46dda866d133f337773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   keyItem: cabinetKey
   angle: 90
+  didChoose: 0
   itemChose: {fileID: 0}
-=======
-  itemChose: 
-  keyItem: cabinetKey
-  angle: 90
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  iKey: 0
+--- !u!65 &548542319
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 548542312}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 44.81091, y: 90.533104, z: 3.2713509}
+  m_Center: {x: 21.785376, y: 0.000022888184, z: 0.000019032908}
+--- !u!1 &550724756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1036958502221856, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 550724757}
+  m_Layer: 0
+  m_Name: Bip01 R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &550724757
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4733025387587166, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 550724756}
+  m_LocalRotation: {x: 0.6549012, y: 0.11037252, z: -0.26592615, w: 0.6987171}
+  m_LocalPosition: {x: -0.24034995, y: -0.000000076293944, z: -0.000000076293944}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 414609339}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &553713371
 Prefab:
   m_ObjectHideFlags: 0
@@ -14181,11 +14220,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-<<<<<<< HEAD
     m_RotationOrder: 0
-=======
-    m_RotationOrder: 4
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -14334,7 +14369,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 409946, guid: 7f6f2eaf602f6044f8e7412c64b8f27e, type: 2}
   m_PrefabInternal: {fileID: 618494174}
-<<<<<<< HEAD
 --- !u!1 &621012440 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1000010756568158, guid: 556fb3c58e7712445b32e6b881eb9af2,
@@ -14357,8 +14391,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.9281757, y: 0.91836816, z: 0.7969707}
   m_Center: {x: 0.0000000264888, y: -0.2625178, z: -0.02122325}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1 &623113924
 GameObject:
   m_ObjectHideFlags: 0
@@ -14565,6 +14597,80 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 498930, guid: 790c5b42365e7134487364e91d069939, type: 2}
   m_PrefabInternal: {fileID: 627711753}
+--- !u!1 &627728883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 627728884}
+  - component: {fileID: 627728886}
+  - component: {fileID: 627728885}
+  m_Layer: 5
+  m_Name: winText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &627728884
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 627728883}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1553452786}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -75.4, y: 0}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &627728885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 627728883}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 61
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 61
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: YOU WIN!
+--- !u!222 &627728886
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 627728883}
 --- !u!1 &630768876
 GameObject:
   m_ObjectHideFlags: 0
@@ -15186,7 +15292,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 498930, guid: 790c5b42365e7134487364e91d069939, type: 2}
   m_PrefabInternal: {fileID: 656732729}
-<<<<<<< HEAD
 --- !u!1001 &657963430
 Prefab:
   m_ObjectHideFlags: 0
@@ -15245,8 +15350,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 556fb3c58e7712445b32e6b881eb9af2, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &660750238
 Prefab:
   m_ObjectHideFlags: 0
@@ -15656,7 +15759,6 @@ Transform:
   m_Father: {fileID: 353365593}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1001 &671629358
 Prefab:
   m_ObjectHideFlags: 0
@@ -15715,8 +15817,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 556fb3c58e7712445b32e6b881eb9af2, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &676853652
 Prefab:
   m_ObjectHideFlags: 0
@@ -16365,7 +16465,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 489424, guid: d35bd5198bf79ff4a83240177f574496, type: 2}
   m_PrefabInternal: {fileID: 695380771}
-<<<<<<< HEAD
 --- !u!1 &696124307 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 144772, guid: 78c8d34799651084ca96701912d664dc, type: 2}
@@ -16386,8 +16485,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.08442433, y: 0.052468784, z: 0.030886104}
   m_Center: {x: 0, y: 0, z: 0.015352574}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &702771872
 Prefab:
   m_ObjectHideFlags: 0
@@ -17115,7 +17212,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4493f5a7c6d067e4b9d233502d0109f3, type: 2}
   m_IsPrefabParent: 0
-<<<<<<< HEAD
 --- !u!1001 &741353787
 Prefab:
   m_ObjectHideFlags: 0
@@ -17174,8 +17270,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 556fb3c58e7712445b32e6b881eb9af2, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &741377980
 Prefab:
   m_ObjectHideFlags: 0
@@ -17302,21 +17396,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 753109874}
-<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -57.274044, y: -0.2846024, z: 9.995945}
   m_LocalScale: {x: 3.4478872, y: 2.8162997, z: 3.4331384}
   m_Children: []
   m_Father: {fileID: 1053812656}
   m_RootOrder: 23
-=======
-  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -7.87, y: 1.25, z: 26.77}
-  m_LocalScale: {x: 3.4478853, y: 2.8162997, z: 3.4331365}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 15
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1001 &755045139
 Prefab:
@@ -17648,11 +17733,7 @@ RectTransform:
   m_LocalScale: {x: 0.06113552, y: 0.061135486, z: 0.061135486}
   m_Children: []
   m_Father: {fileID: 1553452786}
-<<<<<<< HEAD
   m_RootOrder: 3
-=======
-  m_RootOrder: 2
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -17952,6 +18033,95 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 358b75ea5451cf143ab19029a189097d, type: 2}
   m_PrefabInternal: {fileID: 1481959811}
+--- !u!1 &768735075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1276038944719838, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 768735076}
+  - component: {fileID: 768735079}
+  - component: {fileID: 768735078}
+  - component: {fileID: 768735077}
+  m_Layer: 0
+  m_Name: Clue_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &768735076
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 768735075}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 28.251, y: 5.064, z: 28.523}
+  m_LocalScale: {x: 0.3542028, y: 0.00804264, z: 0.48743284}
+  m_Children: []
+  m_Father: {fileID: 1460234492}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!23 &768735077
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 23745224777383280, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 768735075}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: b895fb14874df954f940101061580f28, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!65 &768735078
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 65249572635548020, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 768735075}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &768735079
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 33654959691426952, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 768735075}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &769015672
 Prefab:
   m_ObjectHideFlags: 0
@@ -18343,7 +18513,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_RootOrder
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.x
@@ -18734,13 +18904,10 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 465986, guid: 220108b2b80753e47b7ce32ece4df80c, type: 2}
   m_PrefabInternal: {fileID: 801497768}
-<<<<<<< HEAD
 --- !u!4 &801545923 stripped
 Transform:
   m_PrefabParentObject: {fileID: 440950, guid: 10efb94c6bff2ac4ead891c26d371ef4, type: 2}
   m_PrefabInternal: {fileID: 403153777}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!4 &801644072 stripped
 Transform:
   m_PrefabParentObject: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
@@ -19079,18 +19246,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 814967653}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 207883593}
-  key: 50
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &814967656
 MonoBehaviour:
@@ -19098,7 +19267,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 814967653}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -20394,7 +20563,6 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 475148, guid: b826295956c65444987d7baae67c5858, type: 2}
   m_PrefabInternal: {fileID: 1782780078}
-<<<<<<< HEAD
 --- !u!1 &875234659
 GameObject:
   m_ObjectHideFlags: 0
@@ -20467,8 +20635,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 875234659}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &875290821
 Prefab:
   m_ObjectHideFlags: 0
@@ -21088,10 +21254,7 @@ GameObject:
   - component: {fileID: 902281060}
   - component: {fileID: 902281062}
   - component: {fileID: 902281061}
-<<<<<<< HEAD
   - component: {fileID: 902281063}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_Layer: 0
   m_Name: default
   m_TagString: Untagged
@@ -21156,7 +21319,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 902281059}
   m_Mesh: {fileID: 4300000, guid: 56c3f2cbc110c05439c69b40ceb13e3a, type: 3}
-<<<<<<< HEAD
 --- !u!136 &902281063
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -21170,8 +21332,6 @@ CapsuleCollider:
   m_Height: 13.981658
   m_Direction: 1
   m_Center: {x: -0.0034861565, y: 7.0008297, z: 0.00000023841858}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!4 &903230665 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4207329327867848, guid: 2ca85dfd1a5ba8d45b36c20053b13142,
@@ -21433,7 +21593,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 46fbe438016f1ef42a93a3237ba16514, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 46fbe438016f1ef42a93a3237ba16514, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -22048,7 +22208,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 421224, guid: cdc878ec30670e447a64eb6046c3c3e9, type: 2}
   m_PrefabInternal: {fileID: 920033096}
-<<<<<<< HEAD
 --- !u!1 &920607623 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1000010756568158, guid: 556fb3c58e7712445b32e6b881eb9af2,
@@ -22071,8 +22230,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.9281757, y: 0.91836816, z: 0.7969707}
   m_Center: {x: 0.0000000264888, y: -0.2625178, z: -0.02122325}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &920854167
 Prefab:
   m_ObjectHideFlags: 0
@@ -22232,7 +22389,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4672061113901992, guid: aab5c71c94790f24f84fb3bce4372f58, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 42.92
+      value: 90.2
       objectReference: {fileID: 0}
     - target: {fileID: 4672061113901992, guid: aab5c71c94790f24f84fb3bce4372f58, type: 2}
       propertyPath: m_LocalPosition.y
@@ -22240,7 +22397,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4672061113901992, guid: aab5c71c94790f24f84fb3bce4372f58, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 27.76
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 4672061113901992, guid: aab5c71c94790f24f84fb3bce4372f58, type: 2}
       propertyPath: m_LocalRotation.x
@@ -22286,6 +22443,16 @@ Prefab:
       propertyPath: m_Radius
       value: 0.29
       objectReference: {fileID: 0}
+    - target: {fileID: 114664977580569246, guid: aab5c71c94790f24f84fb3bce4372f58,
+        type: 2}
+      propertyPath: distance
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 114517013879798500, guid: aab5c71c94790f24f84fb3bce4372f58,
+        type: 2}
+      propertyPath: scream
+      value: 
+      objectReference: {fileID: 1998025987}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: aab5c71c94790f24f84fb3bce4372f58, type: 2}
   m_IsPrefabParent: 0
@@ -22434,7 +22601,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e56588cd3c924cc488787856ff35ea3e, type: 2}
   m_IsPrefabParent: 0
-<<<<<<< HEAD
 --- !u!1 &950195388
 GameObject:
   m_ObjectHideFlags: 0
@@ -22509,8 +22675,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 950195388}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &959094551
 Prefab:
   m_ObjectHideFlags: 0
@@ -22600,13 +22764,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
       propertyPath: m_LocalScale.x
       value: 1.0816976
       objectReference: {fileID: 0}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
   m_IsPrefabParent: 0
@@ -23925,6 +24086,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 466110, guid: 6f6f1a1238d513747bff4e5ab1a1ed89, type: 2}
   m_PrefabInternal: {fileID: 1027609205}
+--- !u!1 &1028160824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1708488552866290, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1028160825}
+  m_Layer: 0
+  m_Name: Bip01 Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1028160825
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4463608297701246, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1028160824}
+  m_LocalRotation: {x: -0.0000020018456, y: 0.00000062178015, z: 0.09843173, w: 0.99514383}
+  m_LocalPosition: {x: -0.09209221, y: -0.00021041452, z: 0.00000012800527}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2033738881}
+  m_Father: {fileID: 2128748344}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1028774912
 Prefab:
   m_ObjectHideFlags: 0
@@ -24430,18 +24622,13 @@ Transform:
   - {fileID: 1601784372}
   - {fileID: 1467893356}
   - {fileID: 391189794}
-<<<<<<< HEAD
   - {fileID: 1083727955}
   - {fileID: 1884094182}
   - {fileID: 353365593}
   - {fileID: 331514532}
   - {fileID: 753109876}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
-=======
-  m_Father: {fileID: 0}
-  m_RootOrder: 19
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1054100920
 Prefab:
@@ -24589,7 +24776,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 418792, guid: f7062f5e280305843958a840362dd8b9, type: 2}
   m_PrefabInternal: {fileID: 1058731249}
-<<<<<<< HEAD
 --- !u!1 &1058880636 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 173952, guid: 85f77ffaa5761174d8f257cebbe8a690, type: 2}
@@ -24603,8 +24789,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4846736819855508, guid: 0584839bceadb844fa31b1ca352056ba,
     type: 2}
   m_PrefabInternal: {fileID: 2095900440}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1064655890
 Prefab:
   m_ObjectHideFlags: 0
@@ -24704,13 +24888,10 @@ Transform:
   m_Father: {fileID: 1281571496}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!4 &1068486875 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 358b75ea5451cf143ab19029a189097d, type: 2}
   m_PrefabInternal: {fileID: 1794862122}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1069048173
 Prefab:
   m_ObjectHideFlags: 0
@@ -24811,7 +24992,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 459634, guid: e36811d30efa42c4b87db17c12d92e40, type: 2}
   m_PrefabInternal: {fileID: 1071154767}
-<<<<<<< HEAD
 --- !u!1 &1071878411 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1000010756568158, guid: 556fb3c58e7712445b32e6b881eb9af2,
@@ -24834,8 +25014,95 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.9281757, y: 0.91836816, z: 0.7969707}
   m_Center: {x: 0.0000000264888, y: -0.2625178, z: -0.02122325}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+--- !u!1 &1072277726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1032694761981844, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1072277727}
+  - component: {fileID: 1072277730}
+  - component: {fileID: 1072277729}
+  - component: {fileID: 1072277728}
+  m_Layer: 0
+  m_Name: Clue_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1072277727
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1072277726}
+  m_LocalRotation: {x: -0, y: -0, z: -0.19430679, w: 0.9809408}
+  m_LocalPosition: {x: -22.531, y: 6.817, z: -0.348}
+  m_LocalScale: {x: 0.5927701, y: 0.013459629, z: 0.81573474}
+  m_Children: []
+  m_Father: {fileID: 1460234492}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -22.408}
+--- !u!23 &1072277728
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 23637546842192550, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1072277726}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: b895fb14874df954f940101061580f28, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!65 &1072277729
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 65210704929985658, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1072277726}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &1072277730
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 33523032256025796, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1072277726}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1074990713
 GameObject:
   m_ObjectHideFlags: 0
@@ -24939,7 +25206,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -24952,6 +25219,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+--- !u!4 &1076293609 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4672061113901992, guid: aab5c71c94790f24f84fb3bce4372f58,
+    type: 2}
+  m_PrefabInternal: {fileID: 927029694}
 --- !u!1001 &1076506711
 Prefab:
   m_ObjectHideFlags: 0
@@ -24991,13 +25263,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 475148, guid: b826295956c65444987d7baae67c5858, type: 2}
       propertyPath: m_LocalScale.x
       value: 1.1475654
       objectReference: {fileID: 0}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b826295956c65444987d7baae67c5858, type: 2}
   m_IsPrefabParent: 0
@@ -25159,7 +25428,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 459634, guid: e36811d30efa42c4b87db17c12d92e40, type: 2}
   m_PrefabInternal: {fileID: 1082009091}
-<<<<<<< HEAD
 --- !u!1 &1083727954
 GameObject:
   m_ObjectHideFlags: 0
@@ -25200,8 +25468,6 @@ Transform:
   m_Father: {fileID: 1053812656}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1089940920
 Prefab:
   m_ObjectHideFlags: 0
@@ -25630,7 +25896,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 489424, guid: d35bd5198bf79ff4a83240177f574496, type: 2}
   m_PrefabInternal: {fileID: 1116568776}
-<<<<<<< HEAD
 --- !u!1 &1119060135
 GameObject:
   m_ObjectHideFlags: 0
@@ -25656,14 +25921,14 @@ RectTransform:
   m_GameObject: {fileID: 1119060135}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: -9.574214}
+  m_AnchoredPosition: {x: -34.800034, y: -9.574214}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1119060137
@@ -25698,15 +25963,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 5 test
+  m_Text: Congratulations
 --- !u!222 &1119060138
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1119060135}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1 &1121350964
 GameObject:
   m_ObjectHideFlags: 0
@@ -26121,15 +26384,15 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1158039200}
-  m_LocalRotation: {x: -0, y: 0.68837273, z: -0, w: 0.72535723}
-  m_LocalPosition: {x: 6.85, y: 1.6, z: -4.92}
+  m_LocalRotation: {x: -0, y: 0.010589277, z: -0, w: 0.999944}
+  m_LocalPosition: {x: 45.1, y: 1.6, z: 16.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 320520695}
   - {fileID: 391208918}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 87.003006, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.213, z: 0}
 --- !u!114 &1158039202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26223,11 +26486,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-<<<<<<< HEAD
     m_RotationOrder: 0
-=======
-    m_RotationOrder: 4
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -26528,6 +26787,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 418792, guid: f7062f5e280305843958a840362dd8b9, type: 2}
   m_PrefabInternal: {fileID: 1168271266}
+--- !u!1 &1168525123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1899757229922962, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1168525124}
+  m_Layer: 0
+  m_Name: Bip01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1168525124
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4209205178343066, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1168525123}
+  m_LocalRotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+  m_LocalPosition: {x: 0.08, y: 0.54, z: -0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2128748344}
+  m_Father: {fileID: 2115809425}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1168797871
 Prefab:
   m_ObjectHideFlags: 0
@@ -26632,7 +26922,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 489424, guid: d35bd5198bf79ff4a83240177f574496, type: 2}
   m_PrefabInternal: {fileID: 1168858981}
-<<<<<<< HEAD
 --- !u!1001 &1169585725
 Prefab:
   m_ObjectHideFlags: 0
@@ -26699,8 +26988,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6f2b08c1ec2e79f4688cdc292da8ff85, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1169718043
 Prefab:
   m_ObjectHideFlags: 0
@@ -26756,11 +27043,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
       propertyPath: m_LocalPosition.x
-<<<<<<< HEAD
       value: 9.73
-=======
-      value: 9.548764
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
       objectReference: {fileID: 0}
     - target: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
       propertyPath: m_LocalPosition.y
@@ -26768,11 +27051,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
       propertyPath: m_LocalPosition.z
-<<<<<<< HEAD
       value: -7.02
-=======
-      value: -7.0247145
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
       objectReference: {fileID: 0}
     - target: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
       propertyPath: m_LocalRotation.x
@@ -26817,13 +27096,10 @@ Prefab:
       propertyPath: m_ReflectionProbeUsage
       value: 3
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
       propertyPath: m_LocalScale.x
       value: 1.1758065
       objectReference: {fileID: 0}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
   m_IsPrefabParent: 0
@@ -27430,7 +27706,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 495982, guid: e56588cd3c924cc488787856ff35ea3e, type: 2}
   m_PrefabInternal: {fileID: 949609613}
-<<<<<<< HEAD
 --- !u!1 &1196905115
 GameObject:
   m_ObjectHideFlags: 0
@@ -27456,14 +27731,14 @@ RectTransform:
   m_GameObject: {fileID: 1196905115}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049931824, y: 0.049931824, z: 0.049931824}
+  m_LocalScale: {x: 0.045405757, y: 0.045405757, z: 0.045405757}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.5, y: 26.2}
+  m_AnchoredPosition: {x: -34.8, y: 26.2}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1196905117
@@ -27498,15 +27773,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 1 test
+  m_Text: The place you get water is filled with a key
 --- !u!222 &1196905118
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1196905115}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1198494481
 Prefab:
   m_ObjectHideFlags: 0
@@ -28362,6 +28635,36 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 498930, guid: 790c5b42365e7134487364e91d069939, type: 2}
   m_PrefabInternal: {fileID: 1243165096}
+--- !u!1 &1247922877
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1702277664650646, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1247922878}
+  m_Layer: 0
+  m_Name: Bone01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1247922878
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4730573664482244, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1247922877}
+  m_LocalRotation: {x: -0.58497006, y: 0.8110549, z: 0.00000041840318, w: 0.0000005801117}
+  m_LocalPosition: {x: -0.01947052, y: 0.027223773, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 84466731}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1249983642
 GameObject:
   m_ObjectHideFlags: 0
@@ -29108,7 +29411,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 7.2699976
+      value: 34.02
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.y
@@ -29116,7 +29419,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 7.6100006
+      value: -14.04
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalRotation.x
@@ -29136,19 +29439,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_RootOrder
-      value: 14
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.x
-      value: 8.5476265
+      value: 5.5061646
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.y
-      value: 8.547621
+      value: 5.506161
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.z
-      value: 8.547621
+      value: 5.506161
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -29590,7 +29893,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
   m_IsPrefabParent: 0
-<<<<<<< HEAD
 --- !u!1001 &1305774338
 Prefab:
   m_ObjectHideFlags: 0
@@ -29649,8 +29951,36 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 556fb3c58e7712445b32e6b881eb9af2, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+--- !u!1 &1307672277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1342411359040796, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1307672278}
+  m_Layer: 0
+  m_Name: Bip01 L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1307672278
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4716609122578400, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1307672277}
+  m_LocalRotation: {x: -0.6549012, y: -0.11037253, z: -0.2659261, w: 0.6987171}
+  m_LocalPosition: {x: -0.24035, y: -0.000000038146972, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 1712395119}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1316848110
 Prefab:
   m_ObjectHideFlags: 0
@@ -30360,12 +30690,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 0}
-  key: 0
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &1359236109
 MonoBehaviour:
@@ -30389,15 +30721,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11c3d8a49062f46dda866d133f337773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   keyItem: cabinetKey
   angle: -90
+  didChoose: 0
   itemChose: {fileID: 0}
-=======
-  itemChose: 
-  keyItem: cabinetKey
-  angle: -90
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  iKey: 0
+--- !u!65 &1359236112
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1359236105}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 46.42408, y: 90.53313, z: 3.2713509}
+  m_Center: {x: -22.656517, y: 0.00004196167, z: 0.0000067179217}
 --- !u!1 &1360411274
 GameObject:
   m_ObjectHideFlags: 0
@@ -30848,7 +31188,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_RootOrder
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 4000010862042354, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_LocalScale.x
@@ -30872,7 +31212,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1000011955980886, guid: a846498471c8c42438a83ecfb1486238, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a846498471c8c42438a83ecfb1486238, type: 2}
@@ -31347,7 +31687,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 421224, guid: cdc878ec30670e447a64eb6046c3c3e9, type: 2}
   m_PrefabInternal: {fileID: 1413014820}
-<<<<<<< HEAD
 --- !u!1 &1415128960 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1000010756568158, guid: 556fb3c58e7712445b32e6b881eb9af2,
@@ -31370,8 +31709,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.9281757, y: 0.91836816, z: 0.7969707}
   m_Center: {x: 0.0000000264888, y: -0.2625178, z: -0.02122325}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!4 &1417571189 stripped
 Transform:
   m_PrefabParentObject: {fileID: 449824, guid: 1d77346b4070ec44891030fb3fd3a897, type: 2}
@@ -31736,18 +32073,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1430618808}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 207883593}
-  key: 49
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &1430618813
 MonoBehaviour:
@@ -31755,7 +32094,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1430618808}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -32053,11 +32392,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clickRate: 0.5
-<<<<<<< HEAD
   clickRange: 3
-=======
-  clickRange: 20
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  inventory: {fileID: 207883593}
 --- !u!1001 &1452008358
 Prefab:
   m_ObjectHideFlags: 0
@@ -32108,7 +32444,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 413212, guid: 822548ee135d20e4294ea4b67ae0d36b, type: 2}
   m_PrefabInternal: {fileID: 1452008358}
-<<<<<<< HEAD
 --- !u!1 &1452707394 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1000010756568158, guid: 556fb3c58e7712445b32e6b881eb9af2,
@@ -32131,8 +32466,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.9281757, y: 0.91836816, z: 0.7969707}
   m_Center: {x: 0.0000000264888, y: -0.2625178, z: -0.02122325}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1454030121
 Prefab:
   m_ObjectHideFlags: 0
@@ -32414,7 +32747,6 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
-<<<<<<< HEAD
 --- !u!1 &1459647143
 GameObject:
   m_ObjectHideFlags: 0
@@ -32440,14 +32772,14 @@ RectTransform:
   m_GameObject: {fileID: 1459647143}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: 7.9}
+  m_AnchoredPosition: {x: -34.800034, y: 7.9}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1459647145
@@ -32482,15 +32814,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 3 test
+  m_Text: In the halls filled with blood
 --- !u!222 &1459647146
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1459647143}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+--- !u!4 &1460234492 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4240009165837142, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 1713096382}
 --- !u!4 &1467893356 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4000013742917244, guid: 55aea3d40acca454d8e470d204e6bba6,
@@ -32921,7 +33256,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 438162, guid: a1291014f043d2c4faf8c717cf9e34b7, type: 2}
   m_PrefabInternal: {fileID: 1483109583}
-<<<<<<< HEAD
 --- !u!1 &1483905705
 GameObject:
   m_ObjectHideFlags: 0
@@ -33031,8 +33365,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1485639954
 Prefab:
   m_ObjectHideFlags: 0
@@ -33456,7 +33788,6 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-<<<<<<< HEAD
 --- !u!1001 &1498017271
 Prefab:
   m_ObjectHideFlags: 0
@@ -33533,8 +33864,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
   m_PrefabInternal: {fileID: 1498017271}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1499121641
 Prefab:
   m_ObjectHideFlags: 0
@@ -33685,7 +34014,6 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 453880, guid: 695e9c39c231cfa41a135e68073a9772, type: 2}
   m_PrefabInternal: {fileID: 660750238}
-<<<<<<< HEAD
 --- !u!1001 &1515345986
 Prefab:
   m_ObjectHideFlags: 0
@@ -33760,8 +34088,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 85f77ffaa5761174d8f257cebbe8a690, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1517590051
 Prefab:
   m_ObjectHideFlags: 0
@@ -33828,7 +34154,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 498930, guid: 790c5b42365e7134487364e91d069939, type: 2}
   m_PrefabInternal: {fileID: 1517590051}
-<<<<<<< HEAD
 --- !u!1 &1519691649 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 173952, guid: 85f77ffaa5761174d8f257cebbe8a690, type: 2}
@@ -33837,8 +34162,6 @@ GameObject:
 Transform:
   m_PrefabParentObject: {fileID: 480672, guid: 85f77ffaa5761174d8f257cebbe8a690, type: 2}
   m_PrefabInternal: {fileID: 1515345986}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1 &1520726599
 GameObject:
   m_ObjectHideFlags: 0
@@ -33899,7 +34222,6 @@ Transform:
   m_Father: {fileID: 353365593}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1001 &1520909714
 Prefab:
   m_ObjectHideFlags: 0
@@ -33981,8 +34303,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
   m_PrefabInternal: {fileID: 1520909714}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1521114108
 Prefab:
   m_ObjectHideFlags: 0
@@ -34437,21 +34757,16 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
-<<<<<<< HEAD
   - {fileID: 875234660}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   - {fileID: 369698763}
   - {fileID: 1810928490}
   - {fileID: 764658587}
   - {fileID: 1570751300}
-<<<<<<< HEAD
   - {fileID: 234063509}
   - {fileID: 950195389}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  - {fileID: 627728884}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: -0.27400002, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -34767,7 +35082,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 413212, guid: 822548ee135d20e4294ea4b67ae0d36b, type: 2}
   m_PrefabInternal: {fileID: 1567624296}
-<<<<<<< HEAD
 --- !u!1 &1568725839
 GameObject:
   m_ObjectHideFlags: 0
@@ -34799,10 +35113,8 @@ Transform:
   - {fileID: 1059545344}
   - {fileID: 108895215}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!4 &1569457382 stripped
 Transform:
   m_PrefabParentObject: {fileID: 449824, guid: 1d77346b4070ec44891030fb3fd3a897, type: 2}
@@ -34853,18 +35165,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1569654243}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 207883593}
-  key: 52
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &1569654246
 MonoBehaviour:
@@ -34872,7 +35186,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1569654243}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -34979,11 +35293,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 1553452786}
-<<<<<<< HEAD
   m_RootOrder: 4
-=======
-  m_RootOrder: 3
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -35293,18 +35603,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1588396249}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 207883593}
-  key: 53
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 0}
+  slot2: {fileID: 0}
+  slot3: {fileID: 0}
+  slot4: {fileID: 0}
+  slot5: {fileID: 0}
+  slot6: {fileID: 0}
+  itemName: 
   chooseItem: 0
 --- !u!114 &1588396252
 MonoBehaviour:
@@ -35312,7 +35624,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1588396249}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -35502,7 +35814,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 413212, guid: 822548ee135d20e4294ea4b67ae0d36b, type: 2}
   m_PrefabInternal: {fileID: 1597176818}
-<<<<<<< HEAD
 --- !u!1001 &1600433373
 Prefab:
   m_ObjectHideFlags: 0
@@ -35573,8 +35884,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6f2b08c1ec2e79f4688cdc292da8ff85, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1601187987
 Prefab:
   m_ObjectHideFlags: 0
@@ -36339,6 +36648,95 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 479620, guid: 15c7d4ef5fd68124aadaf69836973b43, type: 2}
   m_PrefabInternal: {fileID: 1630537234}
+--- !u!1 &1633418997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1276038944719838, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1633418998}
+  - component: {fileID: 1633419001}
+  - component: {fileID: 1633419000}
+  - component: {fileID: 1633418999}
+  m_Layer: 0
+  m_Name: Clue_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1633418998
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1633418997}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -41.65, y: 6.53, z: 40.08}
+  m_LocalScale: {x: 0.5982942, y: 0.013585055, z: 0.8233369}
+  m_Children: []
+  m_Father: {fileID: 1460234492}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1633418999
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 23745224777383280, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1633418997}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: b895fb14874df954f940101061580f28, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!65 &1633419000
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 65249572635548020, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1633418997}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &1633419001
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 33654959691426952, guid: 28e39038507f6994fba31d638606baa1,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1633418997}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &1634435142
 Prefab:
   m_ObjectHideFlags: 0
@@ -36547,6 +36945,39 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1647068124}
+--- !u!1 &1648044160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1445255633615846, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1648044161}
+  m_Layer: 0
+  m_Name: Bip01 Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1648044161
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4578689533793888, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1648044160}
+  m_LocalRotation: {x: 1.5262368e-14, y: 0.0000011396826, z: -0.41090375, w: 0.91167873}
+  m_LocalPosition: {x: -0.25273368, y: -0.000066537854, z: -1.845001e-10}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 84466731}
+  - {fileID: 1688236495}
+  - {fileID: 1992115027}
+  m_Father: {fileID: 2033738881}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1649726959
 Prefab:
   m_ObjectHideFlags: 0
@@ -37233,7 +37664,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 465986, guid: 220108b2b80753e47b7ce32ece4df80c, type: 2}
   m_PrefabInternal: {fileID: 1681843213}
-<<<<<<< HEAD
 --- !u!1001 &1684061734
 Prefab:
   m_ObjectHideFlags: 0
@@ -37288,8 +37718,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 43dd1ba2a5dde844eb01240da13ab96b, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1684718266
 Prefab:
   m_ObjectHideFlags: 0
@@ -37500,6 +37928,37 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1686823320}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1688236494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1753337363270356, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1688236495}
+  m_Layer: 0
+  m_Name: Bip01 L Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1688236495
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4185239704286104, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1688236494}
+  m_LocalRotation: {x: -0.57404083, y: -0.25900236, z: 0.70805144, w: -0.31946525}
+  m_LocalPosition: {x: 0.119999975, y: 1.0740002, z: -0.15891857}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2023430749}
+  m_Father: {fileID: 1648044161}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1688404789
 Prefab:
   m_ObjectHideFlags: 0
@@ -37737,7 +38196,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1694166915
 GameObject:
@@ -38319,6 +38778,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 425896, guid: 150a3e94dd1b40a43a79775621bf2676, type: 2}
   m_PrefabInternal: {fileID: 1711947092}
+--- !u!1 &1712395118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1398765393062244, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1712395119}
+  m_Layer: 0
+  m_Name: Bip01 L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1712395119
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4509202025798804, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1712395118}
+  m_LocalRotation: {x: 0.000000019830404, y: 0.000000037190215, z: 0.2912493, w: 0.9566472}
+  m_LocalPosition: {x: -0.31570095, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1307672278}
+  m_Father: {fileID: 2023430749}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1713096382
 Prefab:
   m_ObjectHideFlags: 0
@@ -38356,7 +38846,101 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4240009165837142, guid: 28e39038507f6994fba31d638606baa1, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 3.961
+      objectReference: {fileID: 0}
+    - target: {fileID: 23637546842192550, guid: 28e39038507f6994fba31d638606baa1,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b895fb14874df954f940101061580f28, type: 2}
+    - target: {fileID: 23745224777383280, guid: 28e39038507f6994fba31d638606baa1,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b895fb14874df954f940101061580f28, type: 2}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 26.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 24.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514150030986774, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -17.955
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 8.282
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.46774706
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5152099
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.40751877
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.59135437
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -82.12701
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.35117662
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.007973928
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.48326838
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964816810125196, guid: 28e39038507f6994fba31d638606baa1, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -76.686005
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 28e39038507f6994fba31d638606baa1, type: 2}
@@ -38565,6 +39149,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 421224, guid: cdc878ec30670e447a64eb6046c3c3e9, type: 2}
   m_PrefabInternal: {fileID: 1721722233}
+--- !u!1 &1725892977
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1422713045800670, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1725892978}
+  m_Layer: 0
+  m_Name: Bip01 R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1725892978
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4843309005437270, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1725892977}
+  m_LocalRotation: {x: 0.1212695, y: 0.22002923, z: -0.107915044, w: 0.9618915}
+  m_LocalPosition: {x: -0.15238845, y: 0.0000000047683715, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 414609339}
+  m_Father: {fileID: 1992115027}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1730150415
 Prefab:
   m_ObjectHideFlags: 0
@@ -38615,7 +39230,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 459634, guid: e36811d30efa42c4b87db17c12d92e40, type: 2}
   m_PrefabInternal: {fileID: 1730150415}
-<<<<<<< HEAD
 --- !u!1001 &1732484636
 Prefab:
   m_ObjectHideFlags: 0
@@ -38692,8 +39306,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 493860, guid: a73967be39a7cc74ca310e8a9d9de82d, type: 2}
   m_PrefabInternal: {fileID: 1732484636}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!4 &1734938291 stripped
 Transform:
   m_PrefabParentObject: {fileID: 490584, guid: b0f7abaadca23ea4d910efe028624076, type: 2}
@@ -39265,7 +39877,6 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400048, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
       propertyPath: m_LocalPosition.x
-<<<<<<< HEAD
       value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 400048, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
@@ -39275,17 +39886,6 @@ Prefab:
     - target: {fileID: 400048, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
       propertyPath: m_LocalPosition.z
       value: 5.1
-=======
-      value: 1.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 400048, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 400048, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6.4
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
       objectReference: {fileID: 0}
     - target: {fileID: 10800000, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
       propertyPath: m_Intensity
@@ -39293,11 +39893,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 10800000, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
       propertyPath: m_Range
-<<<<<<< HEAD
       value: 14.81
-=======
-      value: 10.6
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
       propertyPath: m_Name
@@ -39357,7 +39953,6 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 10800000, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
       propertyPath: m_SpotAngle
-<<<<<<< HEAD
       value: 48
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
@@ -39399,9 +39994,6 @@ Prefab:
     - target: {fileID: 400010, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
       propertyPath: m_LocalPosition.z
       value: -4.4
-=======
-      value: 46
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7aec4b0094d00df48a5ccd5b7f4c7f24, type: 3}
@@ -39964,7 +40556,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 416174, guid: a5b8b332bed7b7b409ea83cd470e2604, type: 2}
   m_PrefabInternal: {fileID: 1792183523}
-<<<<<<< HEAD
 --- !u!1001 &1792646217
 Prefab:
   m_ObjectHideFlags: 0
@@ -40023,8 +40614,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 78c8d34799651084ca96701912d664dc, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1 &1794310833
 GameObject:
   m_ObjectHideFlags: 0
@@ -40105,7 +40694,6 @@ MonoBehaviour:
   lt: {fileID: 1794310834}
   minWaitTime: 0.1
   maxWaitTime: 1
-<<<<<<< HEAD
 --- !u!1001 &1794862122
 Prefab:
   m_ObjectHideFlags: 0
@@ -40164,8 +40752,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 358b75ea5451cf143ab19029a189097d, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1 &1799560040
 GameObject:
   m_ObjectHideFlags: 0
@@ -40617,11 +41203,7 @@ RectTransform:
   - {fileID: 2027038896}
   - {fileID: 2138684618}
   m_Father: {fileID: 1553452786}
-<<<<<<< HEAD
   m_RootOrder: 2
-=======
-  m_RootOrder: 1
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -40639,10 +41221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d21934b34482248e587cb72d929c614c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-=======
-  inventory: {fileID: 207883593}
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!114 &1810928492
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40705,18 +41283,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1810928489}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af5ca00c07ee4115b7a06b02643d493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inventory: {fileID: 0}
-  key: 0
+  inventory: {fileID: 207883593}
   item: {fileID: 0}
-<<<<<<< HEAD
-=======
-  didChoose: 0
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+  slot1: {fileID: 1979579824}
+  slot2: {fileID: 1999120615}
+  slot3: {fileID: 85276440}
+  slot4: {fileID: 909036440}
+  slot5: {fileID: 2027038896}
+  slot6: {fileID: 2138684618}
+  itemName: 
   chooseItem: 0
 --- !u!1 &1811965540
 GameObject:
@@ -41339,7 +41919,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 496010, guid: c99475e87b146f642af64959b0a7037f, type: 2}
   m_PrefabInternal: {fileID: 1836635368}
-<<<<<<< HEAD
 --- !u!1 &1837407432
 GameObject:
   m_ObjectHideFlags: 0
@@ -41365,14 +41944,14 @@ RectTransform:
   m_GameObject: {fileID: 1837407432}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.049932595, y: 0.049931824, z: 0.049933005}
+  m_LocalScale: {x: 0.045406457, y: 0.045405757, z: 0.04540683}
   m_Children: []
   m_Father: {fileID: 875234660}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.50003, y: 17.199999}
+  m_AnchoredPosition: {x: -34.800034, y: 17.199999}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1837407434
@@ -41407,15 +41986,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: This is just a clue 2 test
+  m_Text: A place where a man rests for all of eternity
 --- !u!222 &1837407435
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1837407432}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1 &1840308042
 GameObject:
   m_ObjectHideFlags: 0
@@ -42694,13 +43271,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1884094181}
   m_LocalRotation: {x: -0, y: -0.020892657, z: -0, w: 0.9997818}
-<<<<<<< HEAD
   m_LocalPosition: {x: -73.00404, y: -0.5346024, z: 17.525944}
   m_LocalScale: {x: 1.641229, y: 1.641229, z: 1.6412288}
-=======
-  m_LocalPosition: {x: -23.6, y: 1, z: 34.3}
-  m_LocalScale: {x: 1.6412293, y: 1.641229, z: 1.641229}
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_Children:
   - {fileID: 1405632460}
   - {fileID: 530151932}
@@ -42746,17 +43318,12 @@ Transform:
   - {fileID: 240187087}
   - {fileID: 815846285}
   - {fileID: 196365468}
-<<<<<<< HEAD
   - {fileID: 1520909715}
   - {fileID: 414273315}
   - {fileID: 1732484637}
   - {fileID: 1498017272}
   m_Father: {fileID: 1053812656}
   m_RootOrder: 20
-=======
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
   m_LocalEulerAnglesHint: {x: 0, y: -2.394, z: 0}
 --- !u!1001 &1891794181
 Prefab:
@@ -42908,13 +43475,10 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 425982, guid: ecebecaa8f129a14f9dc8be1d0f633fc, type: 2}
   m_PrefabInternal: {fileID: 1892739389}
-<<<<<<< HEAD
 --- !u!4 &1895794546 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 43dd1ba2a5dde844eb01240da13ab96b, type: 2}
   m_PrefabInternal: {fileID: 1684061734}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1896797630
 Prefab:
   m_ObjectHideFlags: 0
@@ -43040,7 +43604,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 418792, guid: f7062f5e280305843958a840362dd8b9, type: 2}
   m_PrefabInternal: {fileID: 1900817831}
-<<<<<<< HEAD
 --- !u!1001 &1903541143
 Prefab:
   m_ObjectHideFlags: 0
@@ -43099,8 +43662,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 556fb3c58e7712445b32e6b881eb9af2, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1905915659
 Prefab:
   m_ObjectHideFlags: 0
@@ -44087,7 +44648,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 418792, guid: f7062f5e280305843958a840362dd8b9, type: 2}
   m_PrefabInternal: {fileID: 1960331223}
-<<<<<<< HEAD
 --- !u!1 &1960809932 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 136588, guid: 6f2b08c1ec2e79f4688cdc292da8ff85, type: 2}
@@ -44108,8 +44668,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.037658665, y: 0.033080567, z: 0.03562381}
   m_Center: {x: -0.000000003595114, y: 0.0017343283, z: 0.017233144}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &1963030940
 Prefab:
   m_ObjectHideFlags: 0
@@ -44551,6 +45109,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 438162, guid: a1291014f043d2c4faf8c717cf9e34b7, type: 2}
   m_PrefabInternal: {fileID: 1989742045}
+--- !u!1 &1992115026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1467782292888138, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1992115027}
+  m_Layer: 0
+  m_Name: Bip01 R Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1992115027
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4952675910428956, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1992115026}
+  m_LocalRotation: {x: 0.57403994, y: 0.2590004, z: 0.7080522, w: -0.3194668}
+  m_LocalPosition: {x: 0.12, y: 1.074, z: -0.215}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1725892978}
+  m_Father: {fileID: 1648044161}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1992750275
 Prefab:
   m_ObjectHideFlags: 0
@@ -44763,7 +45352,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 439042, guid: b7ea257615f5fbf4d9336f06c6c29e0f, type: 2}
   m_PrefabInternal: {fileID: 1996957225}
-<<<<<<< HEAD
 --- !u!1 &1997639625 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1000010756568158, guid: 556fb3c58e7712445b32e6b881eb9af2,
@@ -44786,8 +45374,115 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.9281757, y: 0.91836816, z: 0.7969707}
   m_Center: {x: 0.0000000264888, y: -0.2625178, z: -0.02122325}
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+--- !u!1 &1998025986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1998025988}
+  - component: {fileID: 1998025987}
+  m_Layer: 0
+  m_Name: ScreamAudio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1998025987
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1998025986}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 8731fb52be623ac44a7dc72bf6e888c1, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.492
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!4 &1998025988
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1998025986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1076293609}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1998775398
 Prefab:
   m_ObjectHideFlags: 0
@@ -45106,6 +45801,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 496364, guid: 82f2387b697975b49909be0c45f2a476, type: 2}
   m_PrefabInternal: {fileID: 2013466661}
+--- !u!1 &2023430748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1758437185071078, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2023430749}
+  m_Layer: 0
+  m_Name: Bip01 L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2023430749
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4827240890902198, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2023430748}
+  m_LocalRotation: {x: -0.12126951, y: -0.22002923, z: -0.107915044, w: 0.9618915}
+  m_LocalPosition: {x: -0.15238847, y: 0.000000009536743, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 1712395119}
+  m_Father: {fileID: 1688236495}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2023446294 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
@@ -45387,6 +46113,37 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 465986, guid: 220108b2b80753e47b7ce32ece4df80c, type: 2}
   m_PrefabInternal: {fileID: 2031124640}
+--- !u!1 &2033738880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1105701325033784, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2033738881}
+  m_Layer: 0
+  m_Name: Bip01 Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2033738881
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4406697722486180, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2033738880}
+  m_LocalRotation: {x: -9.823442e-14, y: 0.00000015035671, z: -0.05420994, w: 0.9985296}
+  m_LocalPosition: {x: -0.2695715, y: -0.00020002364, z: -5.54719e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1648044161}
+  m_Father: {fileID: 1028160825}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2034803918
 Prefab:
   m_ObjectHideFlags: 0
@@ -47223,7 +47980,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 459634, guid: e36811d30efa42c4b87db17c12d92e40, type: 2}
   m_PrefabInternal: {fileID: 2094950223}
-<<<<<<< HEAD
 --- !u!1001 &2095900440
 Prefab:
   m_ObjectHideFlags: 0
@@ -47507,8 +48263,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0584839bceadb844fa31b1ca352056ba, type: 2}
   m_IsPrefabParent: 0
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 --- !u!1001 &2096368983
 Prefab:
   m_ObjectHideFlags: 0
@@ -47889,6 +48643,57 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 459634, guid: e36811d30efa42c4b87db17c12d92e40, type: 2}
   m_PrefabInternal: {fileID: 2113110226}
+--- !u!1 &2115809423
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1300611964618398, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2115809425}
+  - component: {fileID: 2115809424}
+  m_Layer: 0
+  m_Name: Zombie_Bed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!95 &2115809424
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 95053064929079256, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2115809423}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: fe2eb0b4e90413643a3ddc78c368140f, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!4 &2115809425
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4846736819855508, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2115809423}
+  m_LocalRotation: {x: -0.33655813, y: 0.64254063, z: 0.30634806, w: 0.6164585}
+  m_LocalPosition: {x: -4.31, y: 1.09, z: -6.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2130720532}
+  - {fileID: 1168525124}
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -126.037994, y: -84.90399, z: 174.655}
 --- !u!1001 &2117553549
 Prefab:
   m_ObjectHideFlags: 0
@@ -47939,6 +48744,123 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 438162, guid: a1291014f043d2c4faf8c717cf9e34b7, type: 2}
   m_PrefabInternal: {fileID: 2117553549}
+--- !u!1 &2128748343
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1732001255218256, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2128748344}
+  m_Layer: 0
+  m_Name: Bip01 Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2128748344
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4808463715152680, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2128748343}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.49999934, w: 0.50000066}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 1028160825}
+  m_Father: {fileID: 1168525124}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2130720531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1631324403636872, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2130720532}
+  - component: {fileID: 2130720533}
+  m_Layer: 0
+  m_Name: ' Head'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2130720532
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4465147877298448, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2130720531}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2115809425}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2130720533
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 137878835445097416, guid: 0584839bceadb844fa31b1ca352056ba,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2130720531}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 4bd180b051e2ca54ebfe82cf04ec20a6, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300004, guid: fe2eb0b4e90413643a3ddc78c368140f, type: 3}
+  m_Bones:
+  - {fileID: 84466731}
+  - {fileID: 1648044161}
+  - {fileID: 2033738881}
+  - {fileID: 1247922878}
+  - {fileID: 1688236495}
+  - {fileID: 1992115027}
+  - {fileID: 2023430749}
+  - {fileID: 1725892978}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 2033738881}
+  m_AABB:
+    m_Center: {x: -0.40291405, y: 0.10811783, z: 0.00000026077032}
+    m_Extent: {x: 0.16522883, y: 0.13977434, z: 0.08768336}
+  m_DirtyAABB: 0
 --- !u!1001 &2133187753
 Prefab:
   m_ObjectHideFlags: 0

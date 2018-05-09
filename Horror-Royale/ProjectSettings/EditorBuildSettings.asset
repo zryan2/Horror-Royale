@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu 1.unity
+    guid: 914a5ad9e1ed69944953e4b070b8b106
+  - enabled: 1
+    path: Assets/Scenes/HorrorRoyale.unity
+    guid: 273eb21e19f05f84e941092cfc7b2bcf

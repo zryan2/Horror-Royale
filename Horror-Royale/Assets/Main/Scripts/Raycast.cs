@@ -9,6 +9,7 @@ public class Raycast : MonoBehaviour {
 	public float clickRange = 1f;
 	private float nextFire;
 
+	public Inventory inventory;
 
 	GameObject weapon_1;
 
@@ -43,6 +44,18 @@ public class Raycast : MonoBehaviour {
 					addPage (2);
 					print ("Found 2nd clue!");
 				}
+				else if (hit.collider.gameObject.name == "Clue_3") {
+					addPage (3);
+					print ("Found 3rd clue!");
+				}
+				else if (hit.collider.gameObject.name == "Clue_4") {
+					addPage (4);
+					print ("Found 4th clue!");
+				}
+				else if (hit.collider.gameObject.name == "Clue_5") {
+					addPage (5);
+					print ("Found 5th clue!");
+				}
 				else if (hit.collider.gameObject.tag == "weapon1") {
 					weapon_1.SetActive (false);
 					GameObject.Find("weapon_1_attached").GetComponent<MeshRenderer> ().enabled = true;
@@ -51,6 +64,12 @@ public class Raycast : MonoBehaviour {
 				else {
 					theDistance = hit.distance;
 					print (theDistance + " " + hit.collider.gameObject.name);
+
+					InteractableItemBaseClass item = hit.collider.GetComponent<InteractableItemBaseClass> (); //sets var item into object player ran into
+					Debug.Log("hit!");
+					if (item != null) { 
+						inventory.AddItem (item as ItemBaseClass); // adds item into inventory 
+					}
 				}
 			}
 		}
@@ -63,20 +82,31 @@ public class Raycast : MonoBehaviour {
 			switch (clueNum) {
 			case(1):
 				Journal.clue1Found = true;
+				GameObject.Find ("Clue_1").SetActive (false);
 				break;
 			case(2):
 				Journal.clue2Found = true;
+				GameObject.Find ("Clue_2").SetActive (false);
+
 				break;
 			case(3):
 				Journal.clue3Found = true;
+				GameObject.Find ("Clue_3").SetActive (false);
+
 				break;
 			case(4):
 				Journal.clue4Found = true;
+				GameObject.Find ("Clue_4").SetActive (false);
+
 				break;
 			case(5):
 				Journal.clue5Found = true;
+				GameObject.Find ("Clue_5").SetActive (false);
+
 				break;
 			}
+		} else if (Journal.pageNum == 5) {
+			GameObject.Find ("winText").GetComponent<Text> ().enabled = true;
 		}
 	}
 	/*

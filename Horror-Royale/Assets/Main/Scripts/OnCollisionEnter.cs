@@ -9,6 +9,7 @@ public class OnCollisionEnter : MonoBehaviour {
 
 	bool scaryFace = false;
 	public GameObject jumpImage;
+	public AudioSource scream;
 
 	private float jumpX, jumpY = 3f;
 	private bool jumpRotate = true;
@@ -33,6 +34,7 @@ public class OnCollisionEnter : MonoBehaviour {
 		if (col.name == "Player") {
 			//Debug.Log ("MONSTER MONSTER");
 			GameObject.Find ("Player").GetComponent<FirstPersonController> ().enabled = false;
+			scream.Play ();
 			StartCoroutine (ScaryFace());
 		}
 	}

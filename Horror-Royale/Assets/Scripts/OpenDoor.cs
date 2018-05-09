@@ -12,44 +12,28 @@ public class OpenDoor : MonoBehaviour {
 	public int angle;
 	public bool didChoose;
 	public ItemBaseClass itemChose;
+	public KeyCode iKey;
 
 
 
 	void Start(){
 		GameObject inventoryPanel = GameObject.Find("InventoryPanel");
-<<<<<<< HEAD
 		//clickItem = otherGameObject.GetComponent();
-=======
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
 		clickItem = inventoryPanel.GetComponent<ClickItem> ();
 	}
 
 	void Update(){
 		didChoose = clickItem.chooseItem;
 		Debug.Log ("DID CHOOSE IS " + didChoose);
-<<<<<<< HEAD
-		//		Debug.Log ("ITEM CHOSE IS " + itemChose);
-		//if (didChoose) {
 		if (didChoose) {
-			//			Debug.Log ("DID CHOOSE IS " + didChoose);
-=======
-//		Debug.Log ("ITEM CHOSE IS " + itemChose);
-		//if (didChoose) {
-		if (didChoose) {
-//			Debug.Log ("DID CHOOSE IS " + didChoose);
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+
 			itemChose = clickItem.item;
-			Debug.Log ("ITEM CHOSE IS " + itemChose);
+			Debug.Log ("THE ITEM IS " + itemChose);
 			if (counter != 1) {
 				if (itemChose.name== keyItem) {
 					openingDoor ();
-<<<<<<< HEAD
 
-					//					Debug.Log ("THE ITEM IS " + item);
-=======
-				
-//					Debug.Log ("THE ITEM IS " + item);
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
+
 					counter = 1;
 				}
 			}
@@ -64,8 +48,4 @@ public class OpenDoor : MonoBehaviour {
 
 
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> parent of e2fae5a4... Revert "Delete item from inventory after use"
